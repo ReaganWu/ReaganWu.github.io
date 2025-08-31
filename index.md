@@ -1,40 +1,54 @@
+<!--
+ * @Author: ZHUOYU WU wuzhuoyu11@gmail.com
+ * @Date: 2025-08-31 18:29:59
+ * @LastEditors: ZHUOYU WU wuzhuoyu11@gmail.com
+ * @LastEditTime: 2025-08-31 20:46:22
+ * @FilePath: \ReaganWu.github.io\index.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 ---
 layout: page
 ---
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://https://github.com/ReaganWu/ReaganWu.github.io/Image_3.JPG" class="floatpic">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+Here is **Zhuoyu WU(Reagan, 吴卓宇)**.<br>
 
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan) and [Dr. Kai Li](https://sites.google.com/site/lukasunsw/Home), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+I am a graduate student in the CyPhi AI Lab at the University of Monash, supervised by [Prof. Raphael Phan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by Graduate Research Excellent Scholarship.
 
-Prior to Cambridge, I have worked on wireless networks and cybersecurity under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
+Prior to Monash, I have worked on Efficient AI algorithm design as well as the SW/HW co-design under the guidance of [Assoc. Prof. Dr. Zheng Wang](https://people.ucas.edu.cn/~ZhengWang) and [Dr. Wenqi Fang](https://scholar.google.com/citations?user=lqtpolwAAAAJ&hl=en) at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences([SIAT, CAS](https://www.siat.ac.cn/)). I had a wonderful time there, collaborating with a group of talented individuals to deliver several key projects.
 
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
+If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **zhuoyu.wu [at] monash.edu**
 
 ---
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Wireless Communication
-- Semantic Communication
-- LLM for Networking
-- Large Language Model Agents
+- [Efficient AI](https://scholar.google.com/citations?user=iAdEypoAAAAJ&hl=zh-CN)
+- HW/SW co-design
+- LLM
+- Agent
+- AI for Science
 
 ---
 
 ## News and Updates
+- **Apr 2025**: Our work *RT-Focuser* accepted by [ICTA 2025](https://epapers2.org/icta2024/ESR/paper_details.php?paper_id=7110).
+- **Aug 2025**: I began my journey on Monash !!! Yeah
+- **July 2025**：Thrilled to have our work *GUI-Narrator* accepted at [ACM MM 2025](https://dl.acm.org/doi/10.1145/3716368.3735201), a top-tier multimedia conference.
+- **April 2025**: Our work *AttenPU* accepted by [GLSVLSI 2025](hthttps://dl.acm.org/doi/10.1145/3716368.3735201).  
+- **Jan 2025**: Our work *PDR-KAN* accepted by [ISCAS 2025](https://ieeexplore.ieee.org/document/11043217).  
+- **Apr 2024**：Our work *Harmonizing Unets(H-Unets)* accepted by *Computers in Biology and Medicine* (Q1, IF=7.7).  
+- **Apr 2023**：Our work *COMPACT* presented at [DATE 2023](https://ieeexplore.ieee.org/document/10137019/).  
 
-- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge-CSC Scholarship!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
+## Academic Services
+- Served as reviewer in BMCV 2025
+- Served as reviewer in IJCNN 2025
 
+<!-- 
 <br>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+ -->

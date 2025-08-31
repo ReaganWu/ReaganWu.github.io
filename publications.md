@@ -1,3 +1,11 @@
+<!--
+ * @Author: ZHUOYU WU wuzhuoyu11@gmail.com
+ * @Date: 2025-08-31 18:29:59
+ * @LastEditors: ZHUOYU WU wuzhuoyu11@gmail.com
+ * @LastEditTime: 2025-08-31 20:14:59
+ * @FilePath: \ReaganWu.github.io\publications.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 ---
 layout: page
 permalink: /publications/index.html
@@ -6,53 +14,33 @@ title: Publications
 
 > (†: equal contribution, ~: corresponding author)
 
-## Journal Paper
-
-- [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine.<br>
-
-  
-
-- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to IEEE Communications Standards Magazine.<br>
-
-  
-
-- Perspectives on Visual Analytics for Advancing Imaginative Intelligence<br>Xiangxuan Zhang, **Hanlin Cai**, Xumeng Wang~<br>Submitted to Visual Informatics.<br>
-
-  <br>
-
 ## Conference Paper
+- GUI-Narrator:Detecting and Captioning Computer GUI Actions<br>*ACM MM'25*<br>Qinchen WU, Difei Gao, Kevin Qinghong Lin, **Zhuoyu Wu**, Mike Zheng Shou
 
-- [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications<br>Catania, Italy. February, 2025.<br>
+- PR-KAN: Pipeline-Driven Reconfigurable Accelerator for Kolmogorov–Arnold Networks with Reuse Sparsity Support<br>*ISCAS'25*<br>Wenhui Ou, **Zhuoyu Wu**, Yike Li, Ziyang Hong, C. Patrick Yue, Zheng Wang
 
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai†**, Yuchen Fang**†**, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu**~**<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), [Undergraduate Consortium](https://kdd2024.kdd.org/undergraduate-consortium/).<br>Barcelona, Spain. August, 2024.<br>
+- AttenPU: A Low-cost Floating-point Attention Processing Unit with Online Adjustable Precision and Bidirectional Dataflow<br>*GLSVLSI'25*<br>Qiawei Zheng, Pu Zhou, Zheng Wang, **Zhuoyu Wu**, Yike Li
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu**~**<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster.<br>Tokyo, Japan. June, 2024.<br>
+- Fourier-LSTM on the Edge: Elevating Genome Sequencing Performance on the Portable Devices<br>*ICTA'24*<br>Bolin Xue, **Zhuoyu Wu**, Yupeng Zang, Wenqi Fang, Zheng Wang, Yongkui Yang
 
-- Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design<br>Linshi Li, **Hanlin Cai~**<br>The 24th Annual ACM Interaction Design and Children Conference (IDC 25)<br>Reykjavik, Iceland. June, 2025.<br>
+- GUI Action Narrator: Where and When Did That Action Take Place?<br>*Arxiv*  <br>Qinchen WU, Difei Gao, Kevin Qinghong Lin, **Zhuoyu Wu**, Xiangwu Guo, Peiran Li, Weichen Zhang, Mike Zheng Shou
 
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~**<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.<br><br>
+- COMPACT:Co-processor for Multi-mode Precision-adjustable Non-linear Activation Function <br> *DATE'23* <br> Wenhui Ou, **Zhuoyu Wu**, Zheng Wang, Chao Chen, Yongkui Yang
 
+- HiPACT:Coprocessor for Multi-mode High Precision Nonlinear Activation Function (Oral, 25%) <br> *CCF CHIP'22* <br> **Wu Zhuoyu**, Ou Wenhui, Wang Zheng
 
----
+--
 
-## Early Project
+## Journal Paper
+- TMU: A Generic Tensor Manipulation Unit for Data-move-intensive Compute-less Operators, 2025<br>  *Arxiv*  <br>Weiyu Zhou, Zheng Wang, Yike Li, Weilun Wang, Wenhui Ou, Chao Chen, Yongkui Yang, **Zhuoyu Wu**, Anupam Chattopadhyay
 
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project ([thesis](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.<br>
+- Harmonizing Unets: Attention Fusion Module in Cascaded-Unets for Low-quality OCT Image Fluid Segmentation<br> *Computers in Biology and Medicine (JCR Q1, IF=7.7)*, 2024 <br> **Zhuoyu Wu**, Qinchen Wu, Wenhui Ou, Quanjun Wang, Wenqi Fang, Heng Yu, Zheng Wang, Heshan Li  
 
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics.
+- A Biologically-inspired Self-Organizing Underwater Sensor Network <br> *Applied Sciences (JCR Q2)*, 2023 <br>  Guannan Li, Yulong Zhang, Yao Zhang, Chao Chen, **Zhuoyu Wu**, Yang Wang  
 
-  <br>
+- Coprocessor for Multi-mode High Precision Nonlinear Activation Function <br> *Journal of Computer-Aided Design & Computer Graphics (JCAD)*, 2022 <br> Ou Wenhui, Wang Zheng, **Wu Zhuoyu**, Wang Weilun, Gan Zhiyin *(CCF CHIP Invited)*  
 
----
+- Energy-Efficient Inference for Recurrent Neural Networks in Edge-Cloud Computing <br> *Symmetry* <br> Chao Chen, Weiyu Guo,Zheng Wang,Yongkui Yang, **Zhuoyu Wu**, Guannan Li
 
-## Degree Thesis
-
-- Semantic Communicaiton for the Internet of Everything: From Molecules to Universe<br>Hanlin Cai (Advisor: Ozgur B. Akan).
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to ACM SIGKDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China HUADING Tech.<br>
-
-  <br>
 
 <br>
