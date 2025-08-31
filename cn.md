@@ -14,9 +14,10 @@ title: 主页中文版
 
 ## 关于我
 
-<img src="https://https://github.com/ReaganWu/ReaganWu.github.io/Image_2.JPG" class="floatpic">
+<img src="Image_2.JPG" class="floatpic">
 
 <br>待完善。
 <br>
 
 > Do not go gentle into that good night. (不要温顺地走进那良夜)
+
