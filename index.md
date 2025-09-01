@@ -12,7 +12,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/ReaganWu/ReaganWu.github.io/blob/ReaganWu_HP/Image_3.jpg" class="floatpic">
+<img src="https://github.com/ReaganWu/ReaganWu.github.io/blob/ReaganWu_HP/Image_3.jpg" class="floatpic" width="360" height="480">
 
 Here is **Zhuoyu WU(Reagan, 吴卓宇)**.<br>
 
@@ -46,6 +46,8 @@ If you are interested in any aspect of me, I am always open to discussions and a
 ## Academic Services
 - Served as reviewer in BMCV 2025
 - Served as reviewer in IJCNN 2025
+
+<br>
 
 <!-- 
 <br>
