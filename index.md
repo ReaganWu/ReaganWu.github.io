@@ -4,6 +4,7 @@ layout: page
 
 # About Me
 
+<!-- <img src="https://github.com/ReaganWu/ReaganWu.github.io/blob/ReaganWu_HP/Image_3.jpg" class="floatpic" width="360" height="480"> -->
 <img src="https://github.com/ReaganWu/ReaganWu.github.io/blob/ReaganWu_HP/Image_3.jpg" class="floatpic" width="360" height="480">
 
 Here is **Zhuoyu WU(Reagan, 吴卓宇)**.<br>
@@ -34,6 +35,8 @@ If you are interested in any aspect of me, I am always open to discussions and a
 - **Jan 2025**: Our work *PDR-KAN* accepted by [ISCAS 2025](https://ieeexplore.ieee.org/document/11043217).  
 - **Apr 2024**：Our work *Harmonizing Unets(H-Unets)* accepted by *Computers in Biology and Medicine* (Q1, IF=7.7).  
 - **Apr 2023**：Our work *COMPACT* presented at [DATE 2023](https://ieeexplore.ieee.org/document/10137019/).  
+
+---
 
 ## Academic Services
 - Served as reviewer in BMCV 2025
