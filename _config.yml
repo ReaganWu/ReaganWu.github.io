@@ -18,8 +18,6 @@ owner:
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: zhuoyu.wu@monash.edu
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
-
-
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   github: GuangLun2000
@@ -52,8 +50,8 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
+  # - title: Awards
+  #   url: /awards/
 #  - title: Hobbies
 #    url: /hobbies/
 #  - title: Blogs
@@ -65,7 +63,7 @@ links:
 # --------------------------------------------------
 #  BUILD & RENDERING OPTIONS
 # --------------------------------------------------
-timezone: Asia/Shanghai          # IANA time-zone ID (China/Beijing is invalid)
+timezone: Asia/Kuala Lumpur          # IANA time-zone ID (China/Beijing is invalid)
 future: true                     # Render posts dated in the future
 highlighter: rouge               # Code highlighter; Rouge is default in MM
 # markdown: kramdown             # Jekyll default; uncomment to force
@@ -96,13 +94,6 @@ kramdown:
   #   coderay_css: class
 
 
-# --------------------------------------------------
-#  DISQUS COMMENT SYSTEM
-# --------------------------------------------------
-disqus:
-  shortname: lancecai
-
-
 # include: [".htaccess"]
 # exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
@@ -124,12 +115,12 @@ exclude:                         # Folders/files ignored during build
   - "minimal-mistakes.sublime-workspace"
 
 
-# --------------------------------------------------
-#  OPTIONAL PLUG-INS (uncomment once gems are added)
-# --------------------------------------------------
-plugins:
-  - jekyll-feed          # Auto-generate RSS feed
-  - jekyll-sitemap       # Auto-generate sitemap.xml
-  - jekyll-seo-tag       # Adds SEO meta tags & JSON-LD
-#   - jekyll-picture-tag   # Responsive images & WebP/AVIF
-  # - jekyll-archives      # Year/month archive pages
+# # --------------------------------------------------
+# #  OPTIONAL PLUG-INS (uncomment once gems are added)
+# # --------------------------------------------------
+# plugins:
+#   - jekyll-feed          # Auto-generate RSS feed
+#   - jekyll-sitemap       # Auto-generate sitemap.xml
+#   - jekyll-seo-tag       # Adds SEO meta tags & JSON-LD
+# #   - jekyll-picture-tag   # Responsive images & WebP/AVIF
+#   # - jekyll-archives      # Year/month archive pages
