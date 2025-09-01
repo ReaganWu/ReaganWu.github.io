@@ -50,4 +50,9 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 
 <!-- MapMyVisitors widget -->
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=9P_lklT9pO2qo5meQtjVVLWdPjv2kDelyQUJjHko-A0&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=9P_lklT9pO2qo5meQtjVVLWdPjv2kDelyQUJjHko-A0&cl=ffffff&w=a"></script> -->
+<div style="width:250px; margin:auto;">
+  <script type="text/javascript" id="mapmyvisitors" 
+    src="//mapmyvisitors.com/map.js?d=9P_lklT9pO2qo5meQtjVVLWdPjv2kDelyQUJjHko-A0&cl=ffffff&w=a">
+  </script>
+</div>
