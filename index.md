@@ -5,7 +5,7 @@ layout: page
 # About Me
 
 <!-- <img src="https://github.com/ReaganWu/ReaganWu.github.io/blob/ReaganWu_HP/Image_3.jpg" class="floatpic" width="360" height="480"> -->
-<img src="https://github.com/ReaganWu/ReaganWu.github.io/blob/ReaganWu_HP/Image_3.jpg" class="floatpic" width="360" height="480">
+<img src="https://reaganwu.github.io/Image_3.jpg" class="floatpic" width="355" height="360">
 
 Here is **Zhuoyu WU(Reagan, 吴卓宇)**.<br>
 
