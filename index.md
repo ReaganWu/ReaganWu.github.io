@@ -32,7 +32,6 @@ If you are interested in any aspect of me, I am always open to discussions and a
 - **Aug 2025**: I began my journey on Monash !!! Yeah
 - **July 2025**: Thrilled to have our work *GUI-Narrator* accepted at [ACM MM 2025](https://dl.acm.org/doi/10.1145/3716368.3735201), a top-tier multimedia conference.
 - **April 2025**: Our work *AttenPU* accepted by [GLSVLSI 2025](hthttps://dl.acm.org/doi/10.1145/3716368.3735201).  
-- **Aug 2025** Our work *Fourier-LSTM on the Edge* accepeted by [ICTA 2024](https://ieeexplore.ieee.org/document/10860364), delivering rapid DNA sequencing on edge devices.
 - **Jan 2025**: Our work *PDR-KAN* accepted by [ISCAS 2025](https://ieeexplore.ieee.org/document/11043217).  
 - **Sep 2024**: Our work *Fourier-LSTM* accepted by [ICTA 2024](https://epapers2.org/icta2024/ESR/paper_details.php?paper_id=7110), demonstrates the potential of embedding Fourier transforms into LSTM to enhance DNA sequencing accuracy.
 - **May 2024**: Our work “GUI-Action Narrator” has been publicly released. By leveraging VLM and pre-grounding techniques, it enables agents to be deployed across platforms and applications. [[Paper](https://arxiv.org/abs/2406.13719), [Code](https://github.com/showlab/GUI-Narrator)]
