@@ -28,6 +28,7 @@ If you are interested in any aspect of me, I am always open to discussions and a
 ---
 
 ## News and Updates
+- **Oct 2025**: Our work *TMU* has been accepted by IEEE Transactions on Very Large Scale Integration (TVLSI), achieving near-memory tensor operation capabilities!
 - **Sep 2025**: Our work *RT-Focuser* accepted by ICTA 2025 as Oral, achieving a throughput exceeding 140 frames per second on an iPhone at 224 resolution.
 - **Aug 2025**: I began my journey on Monash !!! Yeah
 - **July 2025**: Thrilled to have our work *GUI-Narrator* accepted at [ACM MM 2025](https://dl.acm.org/doi/10.1145/3716368.3735201), a top-tier multimedia conference.
