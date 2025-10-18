@@ -9,7 +9,7 @@ layout: page
 
 Here is **Zhuoyu WU(Reagan, 吴卓宇)**.<br>
 
-I am a graduate student in the **CyPhi AI Lab at the University of Monash**, supervised by [Prof. Raphael Phan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by Graduate Research Excellent Scholarship.
+I am a graduate student in the **CyPhi AI Lab at the University of Monash**, supervised by [Prof. Raphael Phan](https://www.monash.edu.my/it/staff/academic/prof-raphael-phan), and funded by Graduate Research Excellent Scholarship.
 
 Prior to Monash, I have worked on Efficient AI algorithm design as well as the SW/HW co-design under the guidance of [Assoc. Prof. Dr. Zheng Wang](https://people.ucas.edu.cn/~ZhengWang) and [Dr. Wenqi Fang](https://scholar.google.com/citations?user=lqtpolwAAAAJ&hl=en) at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences([SIAT, CAS](https://www.siat.ac.cn/)). I had a wonderful time there, collaborating with a group of talented individuals to deliver several key projects.
 
