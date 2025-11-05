@@ -44,6 +44,7 @@ If you are interested in any aspect of me, I am always open to discussions and a
 ## Academic Services
 - Served as reviewer in BMCV 2025
 - Served as reviewer in IJCNN 2025
+- Served as reviewer in MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING (Q2)
 
 <br>
 
