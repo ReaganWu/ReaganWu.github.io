@@ -28,6 +28,7 @@ If you are interested in any aspect of me, I am always open to discussions and a
 ---
 
 ## News and Updates
+- **Nov 2025**: Our research paper, *FLICKER*, has been accepted for the DATE 2026 conference. The paper reveals the sparsity potential in 3D Gaussian splatting (3DGS) and develops a reconfigurable hardware accelerator !!!
 - **Oct 2025**: Our work *TMU* has been accepted by IEEE Transactions on Very Large Scale Integration (TVLSI), achieving near-memory tensor operation capabilities!
 - **Sep 2025**: Our work *RT-Focuser* accepted by ICTA 2025 as Oral, achieving a throughput exceeding 140 frames per second on an iPhone at 224 resolution.
 - **Aug 2025**: I began my journey on Monash !!! Yeah
