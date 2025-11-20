@@ -45,7 +45,7 @@ If you are interested in any aspect of me, I am always open to discussions and a
 ## Academic Services
 - Served as reviewer in ICASSP 2026
 - Served as reviewer in MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING (Q2)\
-- Served as reviewer in BMCV 2025
+- Served as reviewer in BMVC 2025
 - Served as reviewer in IJCNN 2025
 
 <br>
@@ -62,4 +62,5 @@ If you are interested in any aspect of me, I am always open to discussions and a
     src="//mapmyvisitors.com/map.js?d=9P_lklT9pO2qo5meQtjVVLWdPjv2kDelyQUJjHko-A0&cl=ffffff&w=a">
   </script>
 </div>
+
 
