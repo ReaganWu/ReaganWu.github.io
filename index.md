@@ -7,7 +7,7 @@ layout: page
 
 <img src="https://reaganwu.github.io/Image_3.jpg" class="floatpic" width="355" height="360">
 
-Here is **Zhuoyu WU(Reagan, 吴卓宇)**.`<br>`
+Here is **Zhuoyu WU(Reagan, 吴卓宇)**.
 
 I am a graduate student in the **CyPhi AI Lab at the University of Monash**, supervised by [Prof. Raphael Phan](https://www.monash.edu.my/it/staff/academic/prof-raphael-phan), and funded by Graduate Research Excellent Scholarship.
 
