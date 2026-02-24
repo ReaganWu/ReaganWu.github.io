@@ -9,7 +9,7 @@ layout: page
 
 Here is **Zhuoyu WU(Reagan, 吴卓宇)**.
 
-I am a graduate student in the **CyPhi AI Lab at the University of Monash**, supervised by [Prof. Raphael Phan](https://www.monash.edu.my/it/staff/academic/prof-raphael-phan), and funded by Graduate Research Excellent Scholarship.
+I am a PhD student in the **CyPhi AI Lab at the University of Monash**, supervised by [Prof. Raphael Phan](https://www.monash.edu.my/it/staff/academic/prof-raphael-phan), and funded by Graduate Research Excellent Scholarship.
 
 Prior to Monash, I have worked on Efficient AI algorithm design as well as the SW/HW co-design under the guidance of [Assoc. Prof. Dr. Zheng Wang](https://people.ucas.edu.cn/~ZhengWang) and [Dr. Wenqi Fang](https://scholar.google.com/citations?user=lqtpolwAAAAJ&hl=en) at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences([SIAT, CAS](https://www.siat.ac.cn/)). I had a wonderful time there, collaborating with a group of talented individuals to deliver several key projects.
 
@@ -22,7 +22,6 @@ If you are interested in any aspect of me, I am always open to discussions and a
 - [Efficient AI](https://scholar.google.com/citations?user=iAdEypoAAAAJ&hl=zh-CN)
 - HW/SW co-design
 - LLM
-- Agent
 - AI for Science
 
 ---
@@ -45,10 +44,13 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 ## Academic Services
 
-- Served as reviewer in ICASSP 2026
-- Served as reviewer in MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING (Q2)
-- Served as reviewer in BMVC 2025
-- Served as reviewer in IJCNN 2025
+**Reviewer:**
+
+- WCCI 2026
+- ICASSP 2026
+- MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING (Q2)
+- BMVC 2025
+- IJCNN 2025
 
 <br>
 
