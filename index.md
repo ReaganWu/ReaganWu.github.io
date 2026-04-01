@@ -27,9 +27,9 @@ If you are interested in any aspect of me, I am always open to discussions and a
 ---
 
 ## News and Updates
-
-- **Jan 2026**: Our research work “Endocaver” has been accepted for ICASSP 2026. This paper attempts to enhance segmentation accuracy in blurred endoscopic scenes by leveraging the underlying visual attention mechanisms generated during image quality restoration. The code and preprint are coming soon.
-- **Nov 2025**: Our research paper, *FLICKER*, has been accepted for the DATE 2026 conference. The paper reveals the sparsity potential in 3D Gaussian splatting (3DGS) and develops a reconfigurable hardware accelerator !!!
+- **Apr 2026**: Our research work, *DepthPolyp*, has been accepted to ICPR 2026. This paper leverages depth information as auxiliary supervision and incorporates an ultra-lightweight Ghost decoder to enable robust OOD diagnosis in real-time colonoscopic surgical scenarios(Enabling throughput of over *180 FPS* on iPhone 15). The code and preprint will be released soon !!!
+- **Jan 2026**: Our research work “*Endocaver*” has been accepted for ICASSP 2026. This paper attempts to enhance segmentation accuracy in blurred endoscopic scenes by leveraging the underlying visual attention mechanisms generated during image quality restoration. The code is coming soon. [[Preprint](https://arxiv.org/abs/2601.22537)]
+- **Nov 2025**: Our research paper, *FLICKER*, has been accepted for the DATE 2026 conference. The paper reveals the sparsity potential in 3D Gaussian splatting (3DGS) and develops a reconfigurable hardware accelerator !!! [[Preprint](https://arxiv.org/abs/2603.01158)]
 - **Oct 2025**: Our work *TMU* has been accepted by IEEE Transactions on Very Large Scale Integration (TVLSI), achieving near-memory tensor operation capabilities! [[Paper](https://ieeexplore.ieee.org/document/11224010/)]
 - **Sep 2025**: Our work *RT-Focuser* accepted by ICTA 2025 as Oral, achieving a throughput exceeding 140 frames per second on an iPhone at 224 resolution. [[Paper](https://arxiv.org/abs/2512.21975), [Code](https://github.com/ReaganWu/RT-Focuser)]
 - **Aug 2025**: I began my journey on Monash !!! Yeah
@@ -47,11 +47,16 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 **Reviewer:**
 
-- WCCI 2026
-- ICASSP 2026
-- MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING (Q2)
-- BMVC 2025
-- IJCNN 2025
+- Journal:
+  - Biomedical Signal Processing and Control (Q1)
+  - MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING (Q2)
+
+- Conference:
+  - MICCAI 2026
+  - WCCI 2026
+  - ICASSP 2026
+  - BMVC 2025
+  - IJCNN 2025
 
 <br>
 
