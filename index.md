@@ -52,6 +52,7 @@ If you are interested in any aspect of me, I am always open to discussions and a
   - MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING (Q2)
 
 - Conference:
+  - ACMMM 2026
   - MICCAI 2026
   - WCCI 2026
   - ICASSP 2026
