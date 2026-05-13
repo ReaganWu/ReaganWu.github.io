@@ -27,6 +27,7 @@ If you are interested in any aspect of me, I am always open to discussions and a
 ---
 
 ## News and Updates
+
 - **Apr 2026**: Our research work, *DepthPolyp*, has been accepted to ICPR 2026. This paper leverages depth information as auxiliary supervision and incorporates an ultra-lightweight Ghost decoder to enable robust OOD diagnosis in real-time colonoscopic surgical scenarios(Enabling throughput of over *180 FPS* on iPhone 15). The code and preprint will be released soon !!!
 - **Jan 2026**: Our research work “*Endocaver*” has been accepted for ICASSP 2026. This paper attempts to enhance segmentation accuracy in blurred endoscopic scenes by leveraging the underlying visual attention mechanisms generated during image quality restoration. The code is coming soon. [[Preprint](https://arxiv.org/abs/2601.22537)]
 - **Nov 2025**: Our research paper, *FLICKER*, has been accepted for the DATE 2026 conference. The paper reveals the sparsity potential in 3D Gaussian splatting (3DGS) and develops a reconfigurable hardware accelerator !!! [[Preprint](https://arxiv.org/abs/2603.01158)]
@@ -45,19 +46,19 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 ## Academic Services
 
-**Reviewer:**
-
 - Journal:
-  - Biomedical Signal Processing and Control (Q1)
-  - MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING (Q2)
 
+  - Biomedical Signal Processing and Control (Q1) -- Reviewer
+  - MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING (Q2) -- Reviewer
 - Conference:
-  - ACMMM 2026
-  - MICCAI 2026
-  - WCCI 2026
-  - ICASSP 2026
-  - BMVC 2025
-  - IJCNN 2025
+
+  - ACMMM Dataset Track 2026 -- Programme Committee Member
+  - ACMMM 2026 -- Reviewer
+  - MICCAI 2026 -- Reviewer
+  - WCCI 2026 -- Reviewer
+  - ICASSP 2026 -- Reviewer
+  - BMVC 2025 -- Reviewer
+  - IJCNN 2025 -- Reviewer
 
 <br>
 
