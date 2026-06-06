@@ -28,19 +28,19 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 ## News and Updates
 
-- **Apr 2026**: Our research work, *DepthPolyp*, has been accepted to ICPR 2026. This paper leverages depth information as auxiliary supervision and incorporates an ultra-lightweight Ghost decoder to enable robust OOD diagnosis in real-time colonoscopic surgical scenarios(Enabling throughput of over *180 FPS* on iPhone 15). The code and preprint will be released soon !!!
-- **Jan 2026**: Our research work “*Endocaver*” has been accepted for ICASSP 2026. This paper attempts to enhance segmentation accuracy in blurred endoscopic scenes by leveraging the underlying visual attention mechanisms generated during image quality restoration. The code is coming soon. [[Preprint](https://arxiv.org/abs/2601.22537)]
-- **Nov 2025**: Our research paper, *FLICKER*, has been accepted for the DATE 2026 conference. The paper reveals the sparsity potential in 3D Gaussian splatting (3DGS) and develops a reconfigurable hardware accelerator !!! [[Preprint](https://arxiv.org/abs/2603.01158)]
-- **Oct 2025**: Our work *TMU* has been accepted by IEEE Transactions on Very Large Scale Integration (TVLSI), achieving near-memory tensor operation capabilities! [[Paper](https://ieeexplore.ieee.org/document/11224010/)]
-- **Sep 2025**: Our work *RT-Focuser* accepted by ICTA 2025 as Oral, achieving a throughput exceeding 140 frames per second on an iPhone at 224 resolution. [[Paper](https://arxiv.org/abs/2512.21975), [Code](https://github.com/ReaganWu/RT-Focuser)]
+- **Apr 2026**: Our research work, ***DepthPolyp***, has been accepted to **ICPR 2026**. This paper leverages depth information as auxiliary supervision and incorporates an ultra-lightweight Ghost decoder to enable robust OOD diagnosis in real-time colonoscopic surgical scenarios(Enabling throughput of over *180 FPS* on iPhone 15). The code and preprint will be released soon !!!
+- **Jan 2026**: Our research work “***Endocaver***” has been accepted for **ICASSP 2026**. This paper attempts to enhance segmentation accuracy in blurred endoscopic scenes by leveraging the underlying visual attention mechanisms generated during image quality restoration. The code is coming soon. [[Preprint](https://arxiv.org/abs/2601.22537)]
+- **Nov 2025**: Our research paper, ***FLICKER***, has been accepted for the **DATE 2026** conference. The paper reveals the sparsity potential in 3D Gaussian splatting (3DGS) and develops a reconfigurable hardware accelerator !!! [[Preprint](https://arxiv.org/abs/2603.01158)]
+- **Oct 2025**: Our work ***TMU*** has been accepted by IEEE Transactions on Very Large Scale Integration (**TVLSI**), achieving near-memory tensor operation capabilities! [[Paper](https://ieeexplore.ieee.org/document/11224010/)]
+- **Sep 2025**: Our work ***RT-Focuser*** accepted by **ICTA 2025** as Oral, achieving a throughput exceeding 140 frames per second on an iPhone at 224 resolution. [[Paper](https://arxiv.org/abs/2512.21975), [Code](https://github.com/ReaganWu/RT-Focuser)]
 - **Aug 2025**: I began my journey on Monash !!! Yeah
-- **July 2025**: Thrilled to have our work *GUI-Narrator* accepted at [ACM MM 2025](https://dl.acm.org/doi/10.1145/3716368.3735201), a top-tier multimedia conference.
-- **April 2025**: Our work *AttenPU* accepted by [GLSVLSI 2025](hthttps://dl.acm.org/doi/10.1145/3716368.3735201). [[Paper](https://dl.acm.org/doi/full/10.1145/3716368.3735201)]
-- **Jan 2025**: Our work *PDR-KAN* accepted by [ISCAS 2025](https://ieeexplore.ieee.org/document/11043217) as Oral, that's the **academia's first work** to implement dedicated **KAN acceleration** on **FPGAs** . [[Paper](https://ieeexplore.ieee.org/document/11043217)]
-- **Sep 2024**: Our work *Fourier-LSTM* accepted by [ICTA 2024](https://epapers2.org/icta2024/ESR/paper_details.php?paper_id=7110), demonstrates the potential of embedding Fourier transforms into LSTM to enhance DNA sequencing accuracy.
+- **July 2025**: Thrilled to have our work *GUI-Narrator* accepted at [**ACM MM 2025**](https://dl.acm.org/doi/10.1145/3716368.3735201), a top-tier multimedia conference.
+- **April 2025**: Our work *AttenPU* accepted by [**GLSVLSI 2025**](hthttps://dl.acm.org/doi/10.1145/3716368.3735201). [[Paper](https://dl.acm.org/doi/full/10.1145/3716368.3735201)]
+- **Jan 2025**: Our work *PDR-KAN* accepted by **[ISCAS 2025](https://ieeexplore.ieee.org/document/11043217) **as Oral, that's the **academia's first work** to implement dedicated **KAN acceleration** on **FPGAs** . [[Paper](https://ieeexplore.ieee.org/document/11043217)]
+- **Sep 2024**: Our work *Fourier-LSTM* accepted by [**ICTA 2024**](https://epapers2.org/icta2024/ESR/paper_details.php?paper_id=7110), demonstrates the potential of embedding Fourier transforms into LSTM to enhance DNA sequencing accuracy.
 - **May 2024**: Our work “GUI-Action Narrator” has been publicly released. By leveraging VLM and pre-grounding techniques, it enables agents to be deployed across platforms and applications. [[Paper](https://arxiv.org/abs/2406.13719), [Code](https://github.com/showlab/GUI-Narrator)]
-- **Apr 2024**: Our work *Harmonizing Unets(H-Unets)* accepted by *Computers in Biology and Medicine* (Q1, IF=7.7). An elegant cascaded design enable efficient segmentation with low overhead.
-- **Apr 2023**: Our work *COMPACT* presented at [DATE 2023](https://ieeexplore.ieee.org/document/10137019/).
+- **Apr 2024**: Our work *Harmonizing Unets(H-Unets)* accepted by ***Computers in Biology and Medicine*** (Q1, IF=7.7). An elegant cascaded design enable efficient segmentation with low overhead.
+- **Apr 2023**: Our work *COMPACT* presented at [**DATE 2023**](https://ieeexplore.ieee.org/document/10137019/).
 
 ---
 
@@ -50,6 +50,7 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
   - Biomedical Signal Processing and Control (Q1) -- Reviewer
   - MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING (Q2) -- Reviewer
+  - Frontiers in Digital Health (Q1) -- Reviewer
 - Conference:
 
   - ACMMM Dataset Track 2026 -- Programme Committee Member
