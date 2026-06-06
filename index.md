@@ -28,19 +28,29 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 ## News and Updates
 
-- **Apr 2026**: Our research work, ***DepthPolyp***, has been accepted to **ICPR 2026**. This paper leverages depth information as auxiliary supervision and incorporates an ultra-lightweight Ghost decoder to enable robust OOD diagnosis in real-time colonoscopic surgical scenarios(Enabling throughput of over *180 FPS* on iPhone 15). The code and preprint will be released soon !!!
-- **Jan 2026**: Our research work “***Endocaver***” has been accepted for **ICASSP 2026**. This paper attempts to enhance segmentation accuracy in blurred endoscopic scenes by leveraging the underlying visual attention mechanisms generated during image quality restoration. The code is coming soon. [[Preprint](https://arxiv.org/abs/2601.22537)]
-- **Nov 2025**: Our research paper, ***FLICKER***, has been accepted for the **DATE 2026** conference. The paper reveals the sparsity potential in 3D Gaussian splatting (3DGS) and develops a reconfigurable hardware accelerator !!! [[Preprint](https://arxiv.org/abs/2603.01158)]
-- **Oct 2025**: Our work ***TMU*** has been accepted by IEEE Transactions on Very Large Scale Integration (**TVLSI**), achieving near-memory tensor operation capabilities! [[Paper](https://ieeexplore.ieee.org/document/11224010/)]
-- **Sep 2025**: Our work ***RT-Focuser*** accepted by **ICTA 2025** as Oral, achieving a throughput exceeding 140 frames per second on an iPhone at 224 resolution. [[Paper](https://arxiv.org/abs/2512.21975), [Code](https://github.com/ReaganWu/RT-Focuser)]
-- **Aug 2025**: I began my journey on Monash !!! Yeah
-- **July 2025**: Thrilled to have our work *GUI-Narrator* accepted at [**ACM MM 2025**](https://dl.acm.org/doi/10.1145/3716368.3735201), a top-tier multimedia conference.
-- **April 2025**: Our work *AttenPU* accepted by [**GLSVLSI 2025**](hthttps://dl.acm.org/doi/10.1145/3716368.3735201). [[Paper](https://dl.acm.org/doi/full/10.1145/3716368.3735201)]
-- **Jan 2025**: Our work *PDR-KAN* accepted by **[ISCAS 2025](https://ieeexplore.ieee.org/document/11043217) **as Oral, that's the **academia's first work** to implement dedicated **KAN acceleration** on **FPGAs** . [[Paper](https://ieeexplore.ieee.org/document/11043217)]
-- **Sep 2024**: Our work *Fourier-LSTM* accepted by [**ICTA 2024**](https://epapers2.org/icta2024/ESR/paper_details.php?paper_id=7110), demonstrates the potential of embedding Fourier transforms into LSTM to enhance DNA sequencing accuracy.
-- **May 2024**: Our work “GUI-Action Narrator” has been publicly released. By leveraging VLM and pre-grounding techniques, it enables agents to be deployed across platforms and applications. [[Paper](https://arxiv.org/abs/2406.13719), [Code](https://github.com/showlab/GUI-Narrator)]
-- **Apr 2024**: Our work *Harmonizing Unets(H-Unets)* accepted by ***Computers in Biology and Medicine*** (Q1, IF=7.7). An elegant cascaded design enable efficient segmentation with low overhead.
-- **Apr 2023**: Our work *COMPACT* presented at [**DATE 2023**](https://ieeexplore.ieee.org/document/10137019/).
+A compact research log: 🩺 **medical AI**, ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents**, and 🎓 **personal milestones**.
+
+### 2026
+
+- 🩺 **Apr 2026 | [DepthPolyp](https://arxiv.org/abs/2605.16519)**: Accepted by **ICPR 2026**. A pseudo-depth guided lightweight segmentation model for real-time colonoscopy, achieving **3.57M parameters**, **0.86 GMACs**, and over **180 FPS** on mobile devices. [[Code](https://github.com/ReaganWu/DepthPolyp), [HF Model](https://huggingface.co/ReaganWZY/DepthPolyp), [HF Demo](https://huggingface.co/spaces/ReaganWZY/DepthPolyp-demo)]
+- 🩺 **Jan 2026 | [EndoCaver](https://arxiv.org/abs/2601.22537)**: Accepted by **ICASSP 2026**. This work improves segmentation under fog, blur, and glare by connecting image restoration with the visual attention used for segmentation. Code is coming soon.
+
+### 2025
+
+- ⚙️ **Nov 2025 | [FLICKER](https://arxiv.org/abs/2603.01158)**: Accepted by **DATE 2026**. We reveal fine-grained sparsity in 3D Gaussian Splatting and design a contribution-aware reconfigurable accelerator for real-time 3DGS.
+- ⚙️ **Oct 2025 | [TMU](https://ieeexplore.ieee.org/document/11224010/)**: Accepted by **IEEE TVLSI**. This work builds near-memory tensor manipulation capability for data-move-intensive, compute-light operators.
+- 🩺 **Sep 2025 | [RT-Focuser](https://arxiv.org/abs/2512.21975)**: Accepted by **ICTA 2025** as an **Oral** paper. A lightweight real-time deblurring model for edge-side vision, exceeding **140 FPS** on mobile devices. [[Code](https://github.com/ReaganWu/RT-Focuser)]
+- 🎓 **Aug 2025 | Monash**: I began my PhD journey at **Monash University**.
+- 🖥️ **Jul 2025 | [GUI-Narrator](https://dl.acm.org/doi/10.1145/3746027.3755150)**: Accepted by **ACM MM 2025**. This work studies how to detect and caption computer GUI actions for multimodal agents.
+- ⚙️ **Apr 2025 | [AttenPU](https://dl.acm.org/doi/10.1145/3716368.3735201)**: Accepted by **GLSVLSI 2025**. An area-efficient attention processor with reconfigurable FP8 precision and bidirectional dataflow.
+- ⚙️ **Jan 2025 | [PR-KAN](https://ieeexplore.ieee.org/document/11043217)**: Accepted by **ISCAS 2025** as an **Oral** paper. To the best of our knowledge, this is the first FPGA accelerator dedicated to **Kolmogorov-Arnold Networks (KANs)**.
+
+### Earlier
+
+- ⚙️ **Sep 2024 | [Fourier-LSTM](https://epapers2.org/icta2024/ESR/paper_details.php?paper_id=7110)**: Accepted by **ICTA 2024**. We embed Fourier transforms into LSTM to improve DNA sequencing accuracy on portable devices.
+- 🖥️ **May 2024 | [GUI Action Narrator](https://arxiv.org/abs/2406.13719)**: Publicly released. This work uses VLMs and pre-grounding to support GUI action understanding across platforms and applications. [[Code](https://github.com/showlab/GUI-Narrator)]
+- 🩺 **Apr 2024 | [Harmonizing U-Nets](https://pubmed.ncbi.nlm.nih.gov/39368312/)**: Accepted by ***Computers in Biology and Medicine*** (Q1, IF=7.7). A cascaded design with adaptive attention fusion for efficient low-quality OCT fluid segmentation.
+- ⚙️ **Apr 2023 | [COMPACT](https://ieeexplore.ieee.org/document/10137019/)**: Presented at **DATE 2023**, focusing on precision-adjustable nonlinear activation acceleration.
 
 ---
 
