@@ -9,9 +9,9 @@ layout: page
 
 Here is **Zhuoyu WU(Reagan, 吴卓宇)**.
 
-I am a PhD student in the **CyPhi AI Lab at the University of Monash**, supervised by [Prof. Raphael Phan](https://www.monash.edu.my/it/staff/academic/prof-raphael-phan), and funded by Graduate Research Excellent Scholarship.
+I am a PhD student in the **CyPhi AI Lab at the Monash University**, supervised by **[Prof. Raphael Phan](https://www.monash.edu.my/it/staff/academic/prof-raphael-phan)**, and funded by Graduate Research Excellent Scholarship.
 
-Prior to Monash, I have worked on Efficient AI algorithm design as well as the SW/HW co-design under the guidance of [Assoc. Prof. Dr. Zheng Wang](https://people.ucas.edu.cn/~ZhengWang) and [Dr. Wenqi Fang](https://scholar.google.com/citations?user=lqtpolwAAAAJ&hl=en) at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences([SIAT, CAS](https://www.siat.ac.cn/)). I had a wonderful time there, collaborating with a group of talented individuals to deliver several key projects.
+Prior to Monash, I have worked on Efficient AI algorithm design as well as the SW/HW co-design under the guidance of **[Assoc. Prof. Dr. Zheng Wang](https://people.ucas.edu.cn/~ZhengWang)** and **[Dr. Wenqi Fang](https://scholar.google.com/citations?user=lqtpolwAAAAJ&hl=en)** at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences([SIAT, CAS](https://www.siat.ac.cn/)). I had a wonderful time there, collaborating with a group of talented individuals to deliver several key projects.
 
 If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **zhuoyu.wu [at] monash.edu**
 
@@ -28,18 +28,18 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 ## News and Updates
 
-A compact research log: 🩺 **medical AI**, ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents**, and 🎓 **personal milestones**.
+A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents**, and 🎓 **personal milestones**.
 
 ### 2026
 
-- 🩺 **Apr 2026**: **DepthPolyp** was accepted by **ICPR 2026**. A pseudo-depth guided lightweight segmentation model for real-time colonoscopy, achieving **3.57M parameters**, **0.86 GMACs**, and over **180 FPS** on mobile devices. [[Paper](https://arxiv.org/abs/2605.16519)] [[Code](https://github.com/ReaganWu/DepthPolyp)] [[HF Model](https://huggingface.co/ReaganWZY/DepthPolyp)] [[HF Demo](https://huggingface.co/spaces/ReaganWZY/DepthPolyp-demo)]
-- 🩺 **Jan 2026**: **EndoCaver** was accepted by **ICASSP 2026**. This work improves segmentation under fog, blur, and glare by connecting image restoration with the visual attention used for segmentation. [[Preprint](https://arxiv.org/abs/2601.22537)]
+- ⚙️ **Apr 2026**: **DepthPolyp** was accepted by **ICPR 2026**. A pseudo-depth guided lightweight segmentation model for real-time colonoscopy, achieving **3.57M parameters**, **0.86 GMACs**, and over **180 FPS** on mobile devices. [[Paper](https://arxiv.org/abs/2605.16519)] [[Code](https://github.com/ReaganWu/DepthPolyp)] [[HF Model](https://huggingface.co/ReaganWZY/DepthPolyp)] [[HF Demo](https://huggingface.co/spaces/ReaganWZY/DepthPolyp-demo)]
+- **⚙️ Jan 2026**: **EndoCaver** was accepted by **ICASSP 2026**. This work improves segmentation under fog, blur, and glare by connecting image restoration with the visual attention used for segmentation. [[Preprint](https://arxiv.org/abs/2601.22537)]
 
 ### 2025
 
 - ⚙️ **Nov 2025**: **FLICKER** was accepted by **DATE 2026**. We reveal fine-grained sparsity in 3D Gaussian Splatting and design a contribution-aware reconfigurable accelerator for real-time 3DGS. [[Preprint](https://arxiv.org/abs/2603.01158)]
 - ⚙️ **Oct 2025**: **TMU** was accepted by **IEEE TVLSI**. This work builds near-memory tensor manipulation capability for data-move-intensive, compute-light operators. [[Paper](https://ieeexplore.ieee.org/document/11224010/)]
-- 🩺 **Sep 2025**: **RT-Focuser** was accepted by **ICTA 2025** as an **Oral** paper. A lightweight real-time deblurring model for edge-side vision, exceeding **140 FPS** on mobile devices. [[Paper](https://arxiv.org/abs/2512.21975)] [[Code](https://github.com/ReaganWu/RT-Focuser)]
+- ⚙️ **Sep 2025**: **RT-Focuser** was accepted by **ICTA 2025** as an **Oral** paper. A lightweight real-time deblurring model for edge-side vision, exceeding **140 FPS** on mobile devices. [[Paper](https://arxiv.org/abs/2512.21975)] [[Code](https://github.com/ReaganWu/RT-Focuser)]
 - 🎓 **Aug 2025**: I began my PhD journey at **Monash University**.
 - 🖥️ **Jul 2025**: **GUI-Narrator** was accepted by **ACM MM 2025**. This work studies how to detect and caption computer GUI actions for multimodal agents. [[Paper](https://dl.acm.org/doi/10.1145/3746027.3755150)]
 - ⚙️ **Apr 2025**: **AttenPU** was accepted by **GLSVLSI 2025**. An area-efficient attention processor with reconfigurable FP8 precision and bidirectional dataflow. [[Paper](https://dl.acm.org/doi/10.1145/3716368.3735201)]
@@ -49,7 +49,7 @@ A compact research log: 🩺 **medical AI**, ⚙️ **efficient AI / hardware**,
 
 - ⚙️ **Sep 2024**: **Fourier-LSTM** was accepted by **ICTA 2024**. We embed Fourier transforms into LSTM to improve DNA sequencing accuracy on portable devices. [[Paper](https://epapers2.org/icta2024/ESR/paper_details.php?paper_id=7110)]
 - 🖥️ **May 2024**: **GUI Action Narrator** was publicly released. This work uses VLMs and pre-grounding to support GUI action understanding across platforms and applications. [[Paper](https://arxiv.org/abs/2406.13719)] [[Code](https://github.com/showlab/GUI-Narrator)]
-- 🩺 **Apr 2024**: **Harmonizing U-Nets** was accepted by ***Computers in Biology and Medicine*** (Q1, IF=7.7). A cascaded design with adaptive attention fusion for efficient low-quality OCT fluid segmentation. [[Paper](https://pubmed.ncbi.nlm.nih.gov/39368312/)]
+- ⚙️ **Apr 2024**: **Harmonizing U-Nets** was accepted by ***Computers in Biology and Medicine*** (Q1, IF=7.7). A cascaded design with adaptive attention fusion for efficient low-quality OCT fluid segmentation. [[Paper](https://pubmed.ncbi.nlm.nih.gov/39368312/)]
 - ⚙️ **Apr 2023**: **COMPACT** was presented at **DATE 2023**, focusing on precision-adjustable nonlinear activation acceleration. [[Paper](https://ieeexplore.ieee.org/document/10137019/)]
 
 ---
