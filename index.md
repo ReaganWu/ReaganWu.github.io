@@ -65,6 +65,7 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
   - Frontiers in Digital Health (Q1) -- Reviewer
 - Conference:
 
+  - RRPR 2026 --Programme Committee
   - IJCNN 2027 -- Reviewer
   - ACMMM Dataset Track 2026 -- Programme Committee Member
   - ACMMM 2026 -- Reviewer
