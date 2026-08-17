@@ -82,12 +82,7 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&ref_src=twsrc%5Etfw">#AAAI</a> & <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>— Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  -->
 
-<!-- MapMyVisitors widget -->
-
-<!-- <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=9P_lklT9pO2qo5meQtjVVLWdPjv2kDelyQUJjHko-A0&cl=ffffff&w=a"></script> -->
-
-<div style="width:250px; margin:auto;">
-  <script type="text/javascript" id="mapmyvisitors" 
-    src="https://mapmyvisitors.com/map.js?d=9P_lklT9pO2qo5meQtjVVLWdPjv2kDelyQUJjHko-A0&cl=ffffff&w=a">
-  </script>
+<!-- Statable visitor map -->
+<div style="width:100%; max-width:640px; margin:0 auto;">
+  <script src="https://statable.com/js/L8v1DAFFe4/t/mw.js" data-id="3264222" data-period="90d" data-theme="light" data-primary-color="#0099FF" data-ocean-color="#3B9CF61A" data-display-mode="cities"></script>
 </div>
