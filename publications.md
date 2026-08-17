@@ -7,6 +7,20 @@ title: Publications
 > (†: equal contribution, ~: corresponding author)
 
 ## Conference Paper
+- [LiteUAV-DETR: Scale-Aware Feature Routing for Real-Time UAV Detection](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iAdEypoAAAAJ&sortby=pubdate&citation_for_view=iAdEypoAAAAJ:4DMP91E08xMC)<br>*BMVC'26*<br>Mingze Sun, **Zhuoyu Wu**, Pei-Sze Tan, Jit Yan Lim, Raphaël C.-W. Phan, Shu-Min Leong
+
+- [Motion-Equivariant Pseudo-Video Augmentation: Video-Style Generalization from a Single Static Polyp Dataset](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iAdEypoAAAAJ&sortby=pubdate&citation_for_view=iAdEypoAAAAJ:aqlVkmm33-oC)<br>*BMVC'26*<br>**Zhuoyu Wu**, Wenhui Ou, Qinchen Wu, Mingze Sun, Pei-Sze Tan, Wenqi Fang, Raphaël C.-W. Phan
+
+- [DepthPolyp in Practice: Reproducible Deployment and Practical Lessons for Real-Time Colonoscopy Segmentation](https://tc22-team.github.io/rrpr2026/assets/files/draftProgramRRPR2026.pdf)<br>*RRPR'26*<br>**Zhuoyu Wu**, Wenhui Ou, Lexi Zhang, Pei-Sze Tan, Mingze Sun, Junhe Zhao, Wenqi Fang, Raphaël C.-W. Phan
+
+- [DepthPolyp: Pseudo-Depth Guided Lightweight Segmentation for Real-Time Colonoscopy](https://arxiv.org/abs/2605.16519) (**ICPR 2026 RRPR Badge**)<br>*ICPR'26*<br>**Zhuoyu Wu**, Wenhui Ou, Lexi Zhang, Pei-Sze Tan, Dongjun Wu, Junhe Zhao, Wenqi Fang, Raphaël C.-W. Phan
+
+- [RoiMAM: Region-of-Interest Medical Attention Model for Efficient Vision-Language Understanding](https://arxiv.org/abs/2605.15561)<br>*APSIPA ASC'26*<br>Jiayan Yang, **Zhuoyu Wu**, Wenqi Fang
+
+- [RIGS-Refiner: Risk-Guided Recursive Refinement in Prediction Space for Colonoscopy Polyp Segmentation](https://arxiv.org/abs/2607.03058)<br>*APSIPA ASC'26*<br>Jiachi Zhang, **Zhuoyu Wu**, Wenqi Fang
+
+- [Lightweight Polyp Segmentation via a Gain-Aware Prediction-Space Recursive Controller](https://arxiv.org/abs/2607.03062) (Poster)<br>*ICONIP'26*<br>Jiachi Zhang, **Zhuoyu Wu**, Quanjun Wang, Wenhui Ou, Wenqi Fang
+
 - GUI-Narrator:Detecting and Captioning Computer GUI Actions<br>*ACM MM'25*<br>Qinchen WU, Difei Gao, Kevin Qinghong Lin, **Zhuoyu Wu**, Mike Zheng Shou
 
 - PR-KAN: Pipeline-Driven Reconfigurable Accelerator for Kolmogorov–Arnold Networks with Reuse Sparsity Support<br>*ISCAS'25*<br>Wenhui Ou, **Zhuoyu Wu**, Yike Li, Ziyang Hong, C. Patrick Yue, Zheng Wang
