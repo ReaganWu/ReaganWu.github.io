@@ -63,12 +63,13 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
 ---
 
 ## Academic Services
-
 - Journal:
   - Information Sciences (Q1) -- Reviewer
   - Biomedical Signal Processing and Control (Q1) -- Reviewer
   - MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING (Q2) -- Reviewer
   - Frontiers in Digital Health (Q1) -- Reviewer
+  - Frontiers in Cell and Developmental Biology (Q1) -- Reviewer
+  - Applied Computational Intelligence and Soft Computing
 - Conference:
   - BMVC 2026 -- Reviewer
   - RRPR 2026 --Programme Committee
