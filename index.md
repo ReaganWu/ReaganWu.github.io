@@ -31,6 +31,7 @@ If you are interested in any aspect of me, I am always open to discussions and a
 A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents**, and 🎓 **personal milestones**.
 
 ### 2026
+
 - ⚙️ **Aug 2026**: Two papers were accepted by **BMVC 2026**: **LiteUAV-DETR**, which studies scale-aware feature routing for real-time UAV detection, and **Motion-Equivariant Pseudo-Video Augmentation**, which targets video-style generalization from a single static polyp dataset. [[LiteUAV-DETR](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iAdEypoAAAAJ&sortby=pubdate&citation_for_view=iAdEypoAAAAJ:4DMP91E08xMC)] [[Pseudo-Video Augmentation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iAdEypoAAAAJ&sortby=pubdate&citation_for_view=iAdEypoAAAAJ:aqlVkmm33-oC)]
 - 🏅 **Aug 2026**: **DepthPolyp** received the **ICPR 2026 Reproducible Research in Pattern Recognition (RRPR) Badge**, following a separate positive peer-review evaluation of its reproducibility, transparency, code, and data availability. [[Badge Criteria](https://icpr2026.org/rrprBadges.html)] [[Paper](https://arxiv.org/abs/2605.16519)] [[Code](https://github.com/ReaganWu/DepthPolyp)]
 - 🎓 **Aug 2026**: I was selected as a recipient of the **IEEE Computer Society WEIGD Student Support Fund**, as one of 502 selected applicants. [[Award](https://www.computer.org/volunteering/awards/scholarships/weigd-student-fund)]
@@ -63,7 +64,9 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
 ---
 
 ## Academic Services
+
 - Journal:
+
   - Information Sciences (Q1) -- Reviewer
   - Biomedical Signal Processing and Control (Q1) -- Reviewer
   - MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING (Q2) -- Reviewer
@@ -71,6 +74,10 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
   - Frontiers in Cell and Developmental Biology (Q1) -- Reviewer
   - Applied Computational Intelligence and Soft Computing
 - Conference:
+  -----------
+
+
+  - ICASSP 2027 -- Reviewer
   - BMVC 2026 -- Reviewer
   - RRPR 2026 --Programme Committee
   - IJCNN 2027 -- Reviewer
@@ -89,6 +96,7 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
  -->
 
 <!-- Statable visitor map -->
+
 <div style="width:100%; max-width:640px; margin:0 auto;">
   <script src="https://statable.com/js/L8v1DAFFe4/t/mw.js" data-id="3264222" data-period="90d" data-theme="light" data-primary-color="#0099FF" data-ocean-color="#3B9CF61A" data-display-mode="cities"></script>
 </div>
