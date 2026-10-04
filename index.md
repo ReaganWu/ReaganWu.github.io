@@ -72,10 +72,8 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
   - MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING (Q2) -- Reviewer
   - Frontiers in Digital Health (Q1) -- Reviewer
   - Frontiers in Cell and Developmental Biology (Q1) -- Reviewer
-  - Applied Computational Intelligence and Soft Computing
+  - Applied Computational Intelligence and Soft Computing -- Reviewer
 - Conference:
-  -----------
-
 
   - ICASSP 2027 -- Reviewer
   - BMVC 2026 -- Reviewer
