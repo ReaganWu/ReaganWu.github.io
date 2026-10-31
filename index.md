@@ -76,6 +76,7 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
   - Applied Computational Intelligence and Soft Computing -- Reviewer
 - Conference:
 
+  - ISCAS 2027 -- Reviewer
   - ICASSP 2027 -- Reviewer
   - BMVC 2026 -- Reviewer
   - RRPR 2026 --Programme Committee
