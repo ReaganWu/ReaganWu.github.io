@@ -21,9 +21,27 @@ I am also planning a research visit to **Peking University** to collaborate with
 
 If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **zhuoyu.wu [at] monash.edu**
 
+<ul class="affiliations" aria-label="Academic affiliations">
+  <li>
+    <a class="affiliation-logo" href="https://www.monash.edu.my/" aria-label="Monash University official website"><img src="/images/homepage/monash.svg" width="147" height="43" alt="Monash University logo"></a>
+    <strong>Monash University</strong>
+    <span>Current · PhD student</span>
+  </li>
+  <li>
+    <a class="affiliation-logo" href="https://www.siat.ac.cn/" aria-label="SIAT, Chinese Academy of Sciences official website"><img src="/images/homepage/siat.png" width="330" height="329" alt="SIAT, Chinese Academy of Sciences logo"></a>
+    <strong>SIAT, CAS</strong>
+    <span>Previous · Research collaboration</span>
+  </li>
+  <li>
+    <a class="affiliation-logo" href="https://www.pku.edu.cn/" aria-label="Peking University official website"><img src="/images/homepage/pku.png" width="360" height="360" alt="Peking University logo"></a>
+    <strong>Peking University</strong>
+    <span>Planned · Research visit</span>
+  </li>
+</ul>
+
 ---
 
-<nav class="section-nav" aria-label="On this page"><a href="#research-interests">Research</a><a href="#news-and-updates">News</a><a href="/publications/">Publications</a><a href="#academic-services">Service</a><a href="#keynote-projects">Projects</a></nav>
+<nav class="section-nav" aria-label="On this page"><a href="#research-interests">Research</a><a href="#news-and-updates">News</a><a href="/publications/">Publications</a><a href="#academic-services">Service</a><a href="#keynote-works">Projects</a></nav>
 
 ## Research Interests
 
@@ -114,34 +132,42 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
 
 ---
 
-## Keynote Projects
+## Keynote Works
 
 Selected projects in efficient models, practical deployment, and multimodal understanding.
 
 <div class="project-grid">
   <section class="project-card" aria-labelledby="project-ternscope">
+    <a class="project-visual" href="/images/homepage/ternscope.png" aria-label="View TernScope architecture figure"><img src="/images/homepage/ternscope.png" width="2699" height="1290" alt="TernScope architecture showing SplitLK, branch reparameterization and ternary large kernels" loading="lazy"></a>
+    <p class="project-caption">Architecture figure from the project repository</p>
     <p class="project-category">Model–hardware co-design</p>
     <h3 id="project-ternscope"><a href="https://github.com/ReaganWu/TernScope">TernScope</a></h3>
     <p>A ternary endoscopic segmentation model co-designed with an accelerator, connecting low-bit inference with efficient hardware.</p>
-    <a class="project-paper" href="https://arxiv.org/abs/2610.29617" aria-label="TernScope paper">Paper ↗</a>
+    <div class="project-links"><a href="https://github.com/ReaganWu/TernScope" aria-label="TernScope on GitHub">GitHub ↗</a><a class="project-paper" href="https://arxiv.org/abs/2610.29617" aria-label="TernScope paper">Paper ↗</a></div>
   </section>
   <section class="project-card" aria-labelledby="project-depthpolyp">
+    <a class="project-visual" href="/images/homepage/depthpolyp.png" aria-label="View DepthPolyp demo still"><img src="/images/homepage/depthpolyp.png" width="672" height="224" alt="DepthPolyp demo showing a colonoscopy frame, segmentation overlay and pseudo-depth prediction" loading="lazy"></a>
+    <p class="project-caption">Still from the repository segmentation demo</p>
     <p class="project-category">Medical vision &amp; deployment</p>
     <h3 id="project-depthpolyp"><a href="https://github.com/ReaganWu/DepthPolyp">DepthPolyp</a></h3>
     <p>Lightweight colonoscopy segmentation with pseudo-depth guidance, including ONNX inference and an open-source iPhone Core ML demo.</p>
-    <a class="project-paper" href="https://arxiv.org/abs/2605.16519" aria-label="DepthPolyp paper">Paper ↗</a>
+    <div class="project-links"><a href="https://github.com/ReaganWu/DepthPolyp" aria-label="DepthPolyp on GitHub">GitHub ↗</a><a class="project-paper" href="https://arxiv.org/abs/2605.16519" aria-label="DepthPolyp paper">Paper ↗</a></div>
   </section>
   <section class="project-card" aria-labelledby="project-rt-focuser">
+    <a class="project-visual" href="/images/homepage/rt-focuser.png" aria-label="View RT-Focuser comparison still"><img src="/images/homepage/rt-focuser.png" width="1280" height="420" alt="RT-Focuser comparison showing blurry input alongside restored output" loading="lazy"></a>
+    <p class="project-caption">Still from the repository deblurring demo</p>
     <p class="project-category">Real-time edge vision</p>
     <h3 id="project-rt-focuser"><a href="https://github.com/ReaganWu/RT-Focuser">RT-Focuser</a></h3>
     <p>A lightweight image deblurring model for real-time edge deployment, with training, inference, and mobile deployment resources.</p>
-    <a class="project-paper" href="https://arxiv.org/abs/2512.21975" aria-label="RT-Focuser paper">Paper ↗</a>
+    <div class="project-links"><a href="https://github.com/ReaganWu/RT-Focuser" aria-label="RT-Focuser on GitHub">GitHub ↗</a><a class="project-paper" href="https://arxiv.org/abs/2512.21975" aria-label="RT-Focuser paper">Paper ↗</a></div>
   </section>
   <section class="project-card" aria-labelledby="project-gui-narrator">
+    <a class="project-visual" href="/images/homepage/gui-narrator.png" aria-label="View GUI-Narrator pipeline figure"><img src="/images/homepage/gui-narrator.png" width="1167" height="1080" alt="GUI-Narrator pipeline with sampled GUI screenshots, visual prompts and action narration" loading="lazy"></a>
+    <p class="project-caption">Pipeline figure from the project repository</p>
     <p class="project-category">Multimodal GUI understanding</p>
     <h3 id="project-gui-narrator"><a href="https://github.com/showlab/GUI-Narrator">GUI-Narrator</a></h3>
     <p>A GUI action captioning framework and the Act2Cap dataset, using cursor detection and keyframe extraction to interpret on-screen actions.</p>
-    <a class="project-paper" href="https://arxiv.org/abs/2406.13719" aria-label="GUI-Narrator paper">Paper ↗</a>
+    <div class="project-links"><a href="https://github.com/showlab/GUI-Narrator" aria-label="GUI-Narrator on GitHub">GitHub ↗</a><a class="project-paper" href="https://arxiv.org/abs/2406.13719" aria-label="GUI-Narrator paper">Paper ↗</a></div>
   </section>
 </div>
 

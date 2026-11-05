@@ -1,0 +1,40 @@
+Homepage visual asset sources
+
+Project visuals are reproduced from the linked project repositories. Images are
+linked at full resolution from their cards; no performance plots or screenshots
+were generated. PNG stills below retain the first frame of the original demo GIF.
+
+ternscope.png: TernScope architecture figure
+https://github.com/ReaganWu/TernScope/blob/main/assets/architecture.png
+Repository license: Apache-2.0.
+
+depthpolyp.png: first frame of the repository segmentation demo, seq19.gif
+https://github.com/ReaganWu/DepthPolyp/blob/main/assets/seq19.gif
+Repository license: MIT.
+
+rt-focuser.png: first frame of the repository deblurring comparison demo
+https://github.com/ReaganWu/RT-Focuser/blob/main/IMG/comparison_horizontal.gif
+Repository license: MIT.
+
+gui-narrator.png: original GUI Action Narrator pipeline figure with GUI screenshots
+https://github.com/showlab/GUI-Narrator/blob/main/assets/pipeline.png
+Source credit: GUI Action Narrator authors / Show Lab. Original figure unchanged.
+
+Institution marks are unmodified official website assets, displayed with their
+original proportions on white backgrounds with surrounding clear space. They
+identify current, previous and planned academic relationships described in the
+biography; they do not indicate institutional endorsement.
+
+monash.svg (official Monash University Malaysia header)
+https://www.monash.edu.my/__data/assets/git_bridge/0006/509343/deploy/mysource_files/monash-logo.svg
+Source page: https://www.monash.edu.my/
+
+siat.png (official SIAT/CAS site icon)
+https://www.siat.ac.cn/images/szxjy-logoicon.png
+Source page: https://www.siat.ac.cn/
+
+pku.png (official Peking University apple-touch icon)
+https://www.pku.edu.cn/pku_logo_red.png
+Source page: https://www.pku.edu.cn/
+
+Institutional names and marks belong to their respective institutions.
