@@ -34,9 +34,6 @@ body.page { background:#f6f8f8; color:var(--ink); font-family:system-ui,-apple-s
 .research-statement { font-size:21px; font-weight:550; line-height:1.5; }
 .section-nav { clear:both; display:flex; gap:10px; flex-wrap:wrap; padding:8px 0; }
 .section-nav a { border:1px solid var(--line); border-radius:6px; padding:8px 14px; font-size:14px; font-weight:600; }
-.news-archive { border-top:1px solid var(--line); border-bottom:1px solid var(--line); padding:16px 0; margin-top:24px; }
-.news-archive summary { cursor:pointer; color:var(--accent); font-weight:600; padding:8px 2px; }
-.news-archive[open] summary { margin-bottom:22px; }
 .page .footer-wrap { background:#edf2f2; border-top:1px solid var(--line); padding:24px 0; margin:0; }
 .page .footer-wrap footer { display:block; float:none; width:calc(100% - 64px); max-width:1180px; margin:auto; }
 .page .footer-wrap h6 { font:12px/1.8 system-ui,sans-serif; color:var(--muted); margin:0; }
@@ -55,18 +52,14 @@ body.page { background:#f6f8f8; color:var(--ink); font-family:system-ui,-apple-s
  .research-statement { font-size:19px; }
  .page .footer-wrap footer { width:calc(100% - 36px); }
 }
-@media print { .news-archive:not([open]) > :not(summary) { display:block; } .section-nav,.skip-link { display:none; } }
 
 .page .headline-wrap h1 { font:650 36px/1.2 system-ui,sans-serif; letter-spacing:-1px; margin:0 0 28px; }
 .page .top-navigation-current { text-decoration:none; }
 .page .article-wrap a { text-decoration:underline; border-bottom:0; }
 .page .section-nav a { text-decoration:none; }
 .page .section-nav a { border-bottom:1px solid var(--line); }
-.news-archive summary::before { content:"+"; display:inline-block; width:1.4em; font-size:20px; font-weight:400; }
-.news-archive[open] summary::before { content:"−"; }
 #research-interests + ul { display:flex; flex-wrap:wrap; gap:10px; padding:0; list-style:none; }
 #research-interests + ul li { margin:0; padding:6px 12px; background:#eff5f5; border-radius:5px; font-size:15px; }
-.page .news-archive + hr { display:none; }
 #research-interests + ul li { list-style:none; }
 .page h1,.page h2,.page h3 { color:var(--ink); }
 #academic-services ~ ul li { margin-bottom:8px; }
@@ -74,3 +67,23 @@ body.page { background:#f6f8f8; color:var(--ink); font-family:system-ui,-apple-s
 .page .stbl-attr-prefix { color:var(--muted)!important; }
 .page a[href="https://statable.com"] { color:var(--accent)!important; }
 .page .stbl-attr-prefix { opacity:1!important; }
+
+/* Let the research log use more of the desktop reading area. */
+.profile-page #main { max-width:1280px; grid-template-columns:160px minmax(0,1fr); gap:40px; }
+.scroll-hint { color:var(--muted); font-size:14px; display:flex; justify-content:space-between; gap:16px; }
+.news-panel { max-height:620px; overflow-y:scroll; scrollbar-gutter:stable; scrollbar-color:#688b8f #edf3f3; overscroll-behavior-y:contain; border:1px solid #bdcfd1; border-radius:10px; padding:4px 24px 16px; margin:0 -16px; background:#f8fbfb; -webkit-overflow-scrolling:touch; }
+.news-panel:focus-visible { outline:3px solid var(--accent); outline-offset:5px; }
+.news-panel::-webkit-scrollbar { width:12px; }
+.news-panel::-webkit-scrollbar-track { background:#edf3f3; border-radius:10px; }
+.news-panel::-webkit-scrollbar-thumb { background:#688b8f; border:3px solid #edf3f3; border-radius:10px; }
+.page .news-panel h3 { margin-top:20px; }
+.project-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:18px; }
+.project-card { display:flex; flex-direction:column; align-items:flex-start; padding:22px; border:1px solid var(--line); border-top:3px solid var(--accent); border-radius:9px; background:#f8fbfb; min-width:0; }
+.page .project-card .project-category { font-size:12px; font-weight:600; color:var(--muted); margin-bottom:8px; }
+.page .project-card h3 { font-size:23px; margin:0 0 12px; }
+.page .project-card p { font-size:15px; line-height:1.7; }
+.project-paper { margin-top:auto; font-size:14px; font-weight:600; }
+@media(max-width:900px) { .profile-page #main { grid-template-columns:140px minmax(0,1fr); gap:28px; } .project-grid { grid-template-columns:1fr; } }
+@media(max-width:650px) { .news-panel { max-height:520px; max-height:min(65svh,520px); margin:0 -8px; padding:0 14px 12px; } .project-card { padding:20px; } }
+@media print { .news-panel { max-height:none; overflow:visible; } .section-nav,.skip-link,.scroll-hint { display:none; } .project-card { break-inside:avoid; } }
+.profile-page .navigation-wrapper,.profile-page .footer-wrap footer { max-width:1280px; }

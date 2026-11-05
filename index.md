@@ -17,15 +17,17 @@ I am a PhD student in the **CyPhi AI Lab at the Monash University**, supervised 
 
 Prior to Monash, I have worked on Efficient AI algorithm design as well as the SW/HW co-design under the guidance of **[Assoc. Prof. Dr. Zheng Wang](https://people.ucas.edu.cn/~ZhengWang)** and **[Dr. Wenqi Fang](https://scholar.google.com/citations?user=lqtpolwAAAAJ&hl=en)** at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences([SIAT, CAS](https://www.siat.ac.cn/)). I had a wonderful time there, collaborating with a group of talented individuals to deliver several key projects.
 
+I am also planning a research visit to **Peking University** to collaborate with **[Dr. Daquan Zhou](https://www.ece.pku.edu.cn/en/info/1159/1430.htm)**.
+
 If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **zhuoyu.wu [at] monash.edu**
 
 ---
 
-<nav class="section-nav" aria-label="On this page"><a href="#research-interests">Research</a><a href="#news-and-updates">News</a><a href="/publications/">Publications</a><a href="#academic-services">Service</a></nav>
+<nav class="section-nav" aria-label="On this page"><a href="#research-interests">Research</a><a href="#news-and-updates">News</a><a href="/publications/">Publications</a><a href="#academic-services">Service</a><a href="#keynote-projects">Projects</a></nav>
 
 ## Research Interests
 
-- [Efficient AI](https://scholar.google.com/citations?user=iAdEypoAAAAJ&hl=zh-CN)
+- Efficient AI
 - HW/SW co-design
 - LLM
 - AI for Science
@@ -36,6 +38,10 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents**, and 🎓 **personal milestones**.
 
+<p id="news-scroll-hint" class="scroll-hint">Scroll for all updates · 2026–2023 <span aria-hidden="true">↓</span></p>
+
+<div class="news-panel" role="region" aria-labelledby="news-and-updates" aria-describedby="news-scroll-hint" tabindex="0" markdown="1">
+
 ### 2026
 
 - ⚙️ **Oct 2026**: **TernScope: Model-Hardware Co-Design for Efficient Ternary Endoscopic Segmentation** is now available on arXiv, featuring W2A8 ternary quantization and an **88.46% reduction in compute-array area**. [[Preprint](https://arxiv.org/abs/2610.29617)] [[Code](https://github.com/ReaganWu/TernScope)]
@@ -44,8 +50,6 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
 - ⚙️ **Aug 2026**: Two papers were accepted by **BMVC 2026**: **LiteUAV-DETR**, which studies scale-aware feature routing for real-time UAV detection, and **Motion-Equivariant Pseudo-Video Augmentation**, which targets video-style generalization from a single static polyp dataset. [[LiteUAV-DETR](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iAdEypoAAAAJ&sortby=pubdate&citation_for_view=iAdEypoAAAAJ:4DMP91E08xMC)] [[Pseudo-Video Augmentation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iAdEypoAAAAJ&sortby=pubdate&citation_for_view=iAdEypoAAAAJ:aqlVkmm33-oC)]
 - 🏅 **Aug 2026**: **DepthPolyp** received the **ICPR 2026 Reproducible Research in Pattern Recognition (RRPR) Badge**, following a separate positive peer-review evaluation of its reproducibility, transparency, code, and data availability. [[Badge Criteria](https://icpr2026.org/rrprBadges.html)] [[Paper](https://arxiv.org/abs/2605.16519)] [[Code](https://github.com/ReaganWu/DepthPolyp)]
 - 🎓 **Aug 2026**: I was selected as a recipient of the **IEEE Computer Society WEIGD Student Support Fund**, as one of 502 selected applicants. [[Award](https://www.computer.org/volunteering/awards/scholarships/weigd-student-fund)]
-<details class="news-archive" markdown="1">
-<summary>More research updates · 2026 and earlier</summary>
 
 - ⚙️ **Aug 2026**: **Lightweight Polyp Segmentation via a Gain-Aware Prediction-Space Recursive Controller** was accepted by **ICONIP 2026** as a **Poster** paper. The work introduces a compact, host-portable controller that recursively refines backbone logits with minimal deployment overhead. [[Preprint](https://arxiv.org/abs/2607.03062)] [[Code](https://github.com/tyui99/Gain-Aware-Prediction-Space-Recursive-Controller)]
 - ⚙️ **Aug 2026**: **RoiMAM** was accepted by **APSIPA ASC 2026**. This work proposes a region-of-interest medical attention mechanism for efficient vision-language understanding, enabling compact yet effective medical visual question answering. [[Preprint](https://arxiv.org/abs/2605.15561)]
@@ -73,7 +77,7 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
 - ⚙️ **Apr 2024**: **Harmonizing U-Nets** was accepted by ***Computers in Biology and Medicine*** (Q1, IF=7.7). A cascaded design with adaptive attention fusion for efficient low-quality OCT fluid segmentation. [[Paper](https://pubmed.ncbi.nlm.nih.gov/39368312/)]
 - ⚙️ **Apr 2023**: **COMPACT** was presented at **DATE 2023**, focusing on precision-adjustable nonlinear activation acceleration. [[Paper](https://ieeexplore.ieee.org/document/10137019/)]
 
-</details>
+</div>
 
 ---
 
@@ -107,6 +111,39 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
   - ICASSP 2026 -- Reviewer
   - BMVC 2025 -- Reviewer
   - IJCNN 2025 -- Reviewer
+
+---
+
+## Keynote Projects
+
+Selected projects in efficient models, practical deployment, and multimodal understanding.
+
+<div class="project-grid">
+  <section class="project-card" aria-labelledby="project-ternscope">
+    <p class="project-category">Model–hardware co-design</p>
+    <h3 id="project-ternscope"><a href="https://github.com/ReaganWu/TernScope">TernScope</a></h3>
+    <p>A ternary endoscopic segmentation model co-designed with an accelerator, connecting low-bit inference with efficient hardware.</p>
+    <a class="project-paper" href="https://arxiv.org/abs/2610.29617" aria-label="TernScope paper">Paper ↗</a>
+  </section>
+  <section class="project-card" aria-labelledby="project-depthpolyp">
+    <p class="project-category">Medical vision &amp; deployment</p>
+    <h3 id="project-depthpolyp"><a href="https://github.com/ReaganWu/DepthPolyp">DepthPolyp</a></h3>
+    <p>Lightweight colonoscopy segmentation with pseudo-depth guidance, including ONNX inference and an open-source iPhone Core ML demo.</p>
+    <a class="project-paper" href="https://arxiv.org/abs/2605.16519" aria-label="DepthPolyp paper">Paper ↗</a>
+  </section>
+  <section class="project-card" aria-labelledby="project-rt-focuser">
+    <p class="project-category">Real-time edge vision</p>
+    <h3 id="project-rt-focuser"><a href="https://github.com/ReaganWu/RT-Focuser">RT-Focuser</a></h3>
+    <p>A lightweight image deblurring model for real-time edge deployment, with training, inference, and mobile deployment resources.</p>
+    <a class="project-paper" href="https://arxiv.org/abs/2512.21975" aria-label="RT-Focuser paper">Paper ↗</a>
+  </section>
+  <section class="project-card" aria-labelledby="project-gui-narrator">
+    <p class="project-category">Multimodal GUI understanding</p>
+    <h3 id="project-gui-narrator"><a href="https://github.com/showlab/GUI-Narrator">GUI-Narrator</a></h3>
+    <p>A GUI action captioning framework and the Act2Cap dataset, using cursor detection and keyframe extraction to interpret on-screen actions.</p>
+    <a class="project-paper" href="https://arxiv.org/abs/2406.13719" aria-label="GUI-Narrator paper">Paper ↗</a>
+  </section>
+</div>
 
 <br>
 
