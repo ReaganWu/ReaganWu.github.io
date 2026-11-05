@@ -22,8 +22,8 @@ Source credit: GUI Action Narrator authors / Show Lab. Original figure unchanged
 
 Institution marks are unmodified official website assets, displayed with their
 original proportions on white backgrounds with surrounding clear space. They
-identify current and previous academic relationships and ongoing research
-collaboration described in the biography; they do not indicate institutional endorsement.
+identify the current Monash PhD, current Peking University visiting PhD and
+previous SIAT research relationships described in the biography; they do not indicate institutional endorsement.
 
 monash.svg (official Monash University Malaysia header)
 https://www.monash.edu.my/__data/assets/git_bridge/0006/509343/deploy/mysource_files/monash-logo.svg
