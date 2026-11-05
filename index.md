@@ -17,7 +17,7 @@ I am a PhD student in the **CyPhi AI Lab at the Monash University**, supervised 
 
 Prior to Monash, I have worked on Efficient AI algorithm design as well as the SW/HW co-design under the guidance of **[Assoc. Prof. Dr. Zheng Wang](https://people.ucas.edu.cn/~ZhengWang)** and **[Dr. Wenqi Fang](https://scholar.google.com/citations?user=lqtpolwAAAAJ&hl=en)** at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences([SIAT, CAS](https://www.siat.ac.cn/)). I had a wonderful time there, collaborating with a group of talented individuals to deliver several key projects.
 
-I am also planning a research visit to **Peking University** to collaborate with **[Dr. Daquan Zhou](https://www.ece.pku.edu.cn/en/info/1159/1430.htm)**.
+I am also collaborating with **[Dr. Daquan Zhou](https://www.ece.pku.edu.cn/en/info/1159/1430.htm)** at **Peking University**.
 
 If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **zhuoyu.wu [at] monash.edu**
 
@@ -35,7 +35,7 @@ If you are interested in any aspect of me, I am always open to discussions and a
   <li>
     <a class="affiliation-logo" href="https://www.pku.edu.cn/" aria-label="Peking University official website"><img src="/images/homepage/pku.png" width="360" height="360" alt="Peking University logo"></a>
     <strong>Peking University</strong>
-    <span>Planned · Research visit</span>
+    <span>Ongoing · Research collaboration</span>
   </li>
 </ul>
 
