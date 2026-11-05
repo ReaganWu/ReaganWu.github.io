@@ -1,13 +1,17 @@
 ---
 layout: page
+profile: true
+description: Zhuoyu Wu — PhD student at Monash University researching efficient AI, hardware/software co-design, and medical vision.
 ---
-# About Me
+# Zhuoyu Wu
+
+<p class="profile-kicker">Reagan · 吴卓宇 &nbsp; / &nbsp; PhD Student, Monash University</p>
 
 <!-- <img src="https://github.com/ReaganWu/ReaganWu.github.io/blob/ReaganWu_HP/Image_3.jpg" class="floatpic" width="360" height="480"> -->
 
-<img src="https://reaganwu.github.io/Image_3.jpg" class="floatpic" width="355" height="360">
+<img src="/Image_3.jpg" class="floatpic" width="355" height="360" alt="Portrait of Zhuoyu Wu">
 
-Here is **Zhuoyu WU(Reagan, 吴卓宇)**.
+<p class="research-statement">Efficient intelligence, from algorithms to hardware.</p>
 
 I am a PhD student in the **CyPhi AI Lab at the Monash University**, supervised by **[Prof. Raphael Phan](https://www.monash.edu.my/it/staff/academic/prof-raphael-phan)**, and funded by Graduate Research Excellent Scholarship.
 
@@ -16,6 +20,8 @@ Prior to Monash, I have worked on Efficient AI algorithm design as well as the S
 If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **zhuoyu.wu [at] monash.edu**
 
 ---
+
+<nav class="section-nav" aria-label="On this page"><a href="#research-interests">Research</a><a href="#news-and-updates">News</a><a href="/publications/">Publications</a><a href="#academic-services">Service</a></nav>
 
 ## Research Interests
 
@@ -38,6 +44,9 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
 - ⚙️ **Aug 2026**: Two papers were accepted by **BMVC 2026**: **LiteUAV-DETR**, which studies scale-aware feature routing for real-time UAV detection, and **Motion-Equivariant Pseudo-Video Augmentation**, which targets video-style generalization from a single static polyp dataset. [[LiteUAV-DETR](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iAdEypoAAAAJ&sortby=pubdate&citation_for_view=iAdEypoAAAAJ:4DMP91E08xMC)] [[Pseudo-Video Augmentation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iAdEypoAAAAJ&sortby=pubdate&citation_for_view=iAdEypoAAAAJ:aqlVkmm33-oC)]
 - 🏅 **Aug 2026**: **DepthPolyp** received the **ICPR 2026 Reproducible Research in Pattern Recognition (RRPR) Badge**, following a separate positive peer-review evaluation of its reproducibility, transparency, code, and data availability. [[Badge Criteria](https://icpr2026.org/rrprBadges.html)] [[Paper](https://arxiv.org/abs/2605.16519)] [[Code](https://github.com/ReaganWu/DepthPolyp)]
 - 🎓 **Aug 2026**: I was selected as a recipient of the **IEEE Computer Society WEIGD Student Support Fund**, as one of 502 selected applicants. [[Award](https://www.computer.org/volunteering/awards/scholarships/weigd-student-fund)]
+<details class="news-archive" markdown="1">
+<summary>More research updates · 2026 and earlier</summary>
+
 - ⚙️ **Aug 2026**: **Lightweight Polyp Segmentation via a Gain-Aware Prediction-Space Recursive Controller** was accepted by **ICONIP 2026** as a **Poster** paper. The work introduces a compact, host-portable controller that recursively refines backbone logits with minimal deployment overhead. [[Preprint](https://arxiv.org/abs/2607.03062)] [[Code](https://github.com/tyui99/Gain-Aware-Prediction-Space-Recursive-Controller)]
 - ⚙️ **Aug 2026**: **RoiMAM** was accepted by **APSIPA ASC 2026**. This work proposes a region-of-interest medical attention mechanism for efficient vision-language understanding, enabling compact yet effective medical visual question answering. [[Preprint](https://arxiv.org/abs/2605.15561)]
 - ⚙️ **Aug 2026**: **RIGS-Refiner** was accepted by **APSIPA ASC 2026**. This work introduces a lightweight prediction-space refinement framework for robust colonoscopy polyp segmentation, improving segmentation quality with minimal computational overhead. [[Preprint](https://arxiv.org/abs/2607.03058)] [[Code](https://github.com/tyui99/RIGS-Refiner)]
@@ -64,9 +73,17 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
 - ⚙️ **Apr 2024**: **Harmonizing U-Nets** was accepted by ***Computers in Biology and Medicine*** (Q1, IF=7.7). A cascaded design with adaptive attention fusion for efficient low-quality OCT fluid segmentation. [[Paper](https://pubmed.ncbi.nlm.nih.gov/39368312/)]
 - ⚙️ **Apr 2023**: **COMPACT** was presented at **DATE 2023**, focusing on precision-adjustable nonlinear activation acceleration. [[Paper](https://ieeexplore.ieee.org/document/10137019/)]
 
+</details>
+
 ---
 
 ## Academic Services
+
+### Professional Memberships
+
+- Member, [IAPR Technical Committee 22 on Reproducible Research in Pattern Recognition](https://github.com/TC22-Team/TC22/blob/main/membersList.html).
+
+### Reviewing & Programme Committees
 
 - Journal:
 
@@ -93,7 +110,7 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
 
 <br>
 
-<!-- 
+<!--
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&ref_src=twsrc%5Etfw">#AAAI</a> & <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>— Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  -->
 
