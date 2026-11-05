@@ -15,9 +15,11 @@ description: Zhuoyu Wu — PhD student at Monash University researching efficien
 
 I am a PhD student in the **CyPhi AI Lab at the Monash University**, supervised by **[Prof. Raphael Phan](https://www.monash.edu.my/it/staff/academic/prof-raphael-phan)**, and funded by Graduate Research Excellent Scholarship.
 
+I am also a visiting PhD student at **Peking University** under the guidance of **[Prof. Daquan Zhou](https://www.ece.pku.edu.cn/en/info/1159/1430.htm)**.
+
 Prior to Monash, I have worked on Efficient AI algorithm design as well as the SW/HW co-design under the guidance of **[Assoc. Prof. Dr. Zheng Wang](https://people.ucas.edu.cn/~ZhengWang)** and **[Dr. Wenqi Fang](https://scholar.google.com/citations?user=lqtpolwAAAAJ&hl=en)** at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences([SIAT, CAS](https://www.siat.ac.cn/)). I had a wonderful time there, collaborating with a group of talented individuals to deliver several key projects.
 
-I am also a visiting PhD student at **Peking University**, working with **[Prof. Daquan Zhou](https://www.ece.pku.edu.cn/en/info/1159/1430.htm)**.
+I care about making research reproducible and practical to deploy. As a member of [IAPR Technical Committee 22 on Reproducible Research in Pattern Recognition (TC22)](https://github.com/TC22-Team/TC22/blob/main/membersList.html), I welcome exchanges with researchers who share these interests and encourage interested colleagues to explore TC22’s activities.
 
 If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **zhuoyu.wu [at] monash.edu**
 
