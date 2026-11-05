@@ -43,7 +43,7 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 ---
 
-<nav class="section-nav" aria-label="On this page"><a href="#research-interests">Research</a><a href="#news-and-updates">News</a><a href="/publications/">Publications</a><a href="#academic-services">Service</a><a href="#keynote-works">Projects</a></nav>
+<nav class="section-nav" aria-label="On this page"><a href="#research-interests">Research</a><a href="#news-and-updates">News</a><a href="/publications/">Publications</a><a href="#academic-service">Service</a><a href="#keynote-works">Projects</a></nav>
 
 ## Research Interests
 
@@ -101,11 +101,12 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
 
 ---
 
-## Academic Services
+## Academic Service
 
-### Professional Memberships
-
-- Member, [IAPR Technical Committee 22 on Reproducible Research in Pattern Recognition](https://github.com/TC22-Team/TC22/blob/main/membersList.html).
+<section class="committee-role" aria-labelledby="tc22-role">
+  <h3 id="tc22-role">Technical Committee Member</h3>
+  <p><a href="https://github.com/TC22-Team/TC22/blob/main/membersList.html">IAPR TC22 · Reproducible Research in Pattern Recognition</a></p>
+</section>
 
 ### Reviewing & Programme Committees
 

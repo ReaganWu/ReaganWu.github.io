@@ -62,7 +62,7 @@ body.page { background:#f6f8f8; color:var(--ink); font-family:system-ui,-apple-s
 #research-interests + ul li { margin:0; padding:6px 12px; background:#eff5f5; border-radius:5px; font-size:15px; }
 #research-interests + ul li { list-style:none; }
 .page h1,.page h2,.page h3 { color:var(--ink); }
-#academic-services ~ ul li { margin-bottom:8px; }
+#academic-service ~ ul li { margin-bottom:8px; }
 /* Keep third-party visitor-map attribution readable at its small type size. */
 .page .stbl-attr-prefix { color:var(--muted)!important; }
 .page a[href="https://statable.com"] { color:var(--accent)!important; }
@@ -107,3 +107,9 @@ body.page { background:#f6f8f8; color:var(--ink); font-family:system-ui,-apple-s
  .affiliations span { margin:0; }
  .page .project-visual { height:170px; }
 }
+
+/* Ordinary TC22 membership, presented separately from reviewing service. */
+.committee-role { padding:22px 24px; margin:0 0 28px; border:1px solid var(--line); border-left:4px solid var(--accent); border-radius:8px; background:#f2f7f7; }
+.page .committee-role h3 { margin:0 0 8px; font-size:22px; line-height:1.35; }
+.page .committee-role p { margin:0; font-size:16px; }
+@media(max-width:650px) { .committee-role { padding:18px; } .page .committee-role h3 { font-size:20px; } .page .committee-role p { font-size:15px; } }
