@@ -1,86 +1,17 @@
 ---
 layout: page
 profile: true
-description: Zhuoyu Wu researches efficient AI through low-bit models, model–hardware co-design, and practical deployment. PhD student at Monash University and visiting PhD student at Peking University.
+description: Zhuoyu Wu — PhD student at Monash University researching efficient AI, hardware/software co-design, and medical vision.
 ---
 # Zhuoyu Wu
 
-<p class="profile-kicker">Reagan · 吴卓宇</p>
+<p class="profile-kicker">Reagan · 吴卓宇   /   PhD Student, Monash University</p>
+
+<!-- <img src="https://github.com/ReaganWu/ReaganWu.github.io/blob/ReaganWu_HP/Image_3.jpg" class="floatpic" width="360" height="480"> -->
 
 <img src="/Image_3.jpg" class="floatpic" width="355" height="360" alt="Portrait of Zhuoyu Wu">
 
-<p class="research-statement">Efficient Intelligence, from Algorithms to Hardware</p>
-<p class="hero-description">Building accurate, low-bit, and deployable AI systems under real-world compute and memory constraints.</p>
-<p class="hero-affiliations">Monash University · Visiting PhD, Peking University · Formerly SIAT, CAS</p>
-
-<nav class="section-nav" aria-label="On this page"><a href="#selected-research">Research</a><a href="#about-me">About</a><a href="/publications/">Publications</a><a href="#news-and-updates">News</a><a href="#academic-service">Service</a></nav>
-
-## Selected Research
-
-Model–hardware co-design, robust mobile vision, and low-bit embodied intelligence.
-
-<div class="project-grid featured-grid">
-<section class="project-card featured-card" aria-labelledby="project-ternscope">
-    <a class="project-visual" href="/images/homepage/ternscope.png" aria-label="View TernScope architecture figure"><img src="/images/homepage/ternscope.png" width="2699" height="1290" alt="TernScope architecture showing SplitLK, branch reparameterization and ternary large kernels" loading="lazy"></a>
-    <p class="project-caption">Architecture figure from the project repository</p>
-    <p class="publication-status">Preprint · 2026</p>
-    <p class="project-category">Model–hardware co-design</p>
-    <h3 id="project-ternscope"><a href="https://github.com/ReaganWu/TernScope">TernScope</a></h3>
-    <p>A ternary endoscopic segmentation model co-designed with an accelerator, connecting low-bit inference with efficient hardware.</p>
-    <p class="research-result">0.2483M parameters · 0.0949 GMACs</p>
-    <p class="metric-context">W2A8, 256 × 256 RGB, batch 1. Parameters exclude quantization scales; MACs exclude normalization, activations, and interpolation. <a href="https://arxiv.org/html/2610.29617v1#S4">Evaluation protocol</a></p>
-    <div class="project-links"><a href="https://github.com/ReaganWu/TernScope" aria-label="TernScope on GitHub">GitHub ↗</a><a class="project-paper" href="https://arxiv.org/abs/2610.29617" aria-label="TernScope paper">Paper ↗</a></div>
-  </section>
-<section class="project-card featured-card" aria-labelledby="project-depthpolyp">
-    <a class="project-visual" href="/images/homepage/depthpolyp.png" aria-label="View DepthPolyp demo still"><img src="/images/homepage/depthpolyp.png" width="672" height="224" alt="DepthPolyp demo showing a colonoscopy frame, segmentation overlay and pseudo-depth prediction" loading="lazy"></a>
-    <p class="project-caption">Still from the repository segmentation demo</p>
-    <p class="publication-status">ICPR 2026</p>
-    <p class="project-category">Medical vision & deployment</p>
-    <h3 id="project-depthpolyp"><a href="https://github.com/ReaganWu/DepthPolyp">DepthPolyp</a></h3>
-    <p>Lightweight colonoscopy segmentation with pseudo-depth guidance, including ONNX inference and an open-source iPhone Core ML demo.</p>
-    <p class="research-result">181.54 FPS · iPhone 15</p>
-    <p class="metric-context">Paper-reported benchmark: Core ML FP16, 224 × 224 input, batch 1. <a href="https://arxiv.org/html/2605.16519v1#S4.SS6">Table 5 and deployment protocol</a></p>
-    <div class="project-links"><a href="https://github.com/ReaganWu/DepthPolyp" aria-label="DepthPolyp on GitHub">GitHub ↗</a><a class="project-paper" href="https://arxiv.org/abs/2605.16519" aria-label="DepthPolyp paper">Paper ↗</a></div>
-  </section>
-<section class="project-card featured-card" aria-labelledby="project-agq">
-    <a class="project-visual" href="/images/homepage/agq.png" aria-label="View AGQ framework figure"><img src="/images/homepage/agq.png" width="2160" height="1285" alt="AGQ framework showing VLA architecture, action-guided bit allocation, calibration, and block-wise weight recovery" loading="lazy"></a>
-    <p class="project-caption">Framework figure from the project repository</p>
-    <p class="publication-status">Preprint · 2026</p>
-    <p class="project-category">Low-bit vision–language–action models</p>
-    <h3 id="project-agq"><a href="https://github.com/Qiuxu00/AGQ">AGQ</a></h3>
-    <p>Action sensitivity and recovery cost guide weight precision, with calibration and block-wise recovery for memory-constrained VLA deployment.</p>
-    <p class="research-result">92.7% task success · W3</p>
-    <p class="metric-context">OpenVLA-OFT, four LIBERO suites: 556/600 closed-loop episodes, evaluated on RTX 3090. W3 is average target-weight precision; execution recovers BF16 weights. <a href="https://arxiv.org/html/2610.33074v1#S3">Evaluation protocol</a></p>
-    <div class="project-links"><a href="https://github.com/Qiuxu00/AGQ" aria-label="AGQ on GitHub">GitHub ↗</a><a href="https://arxiv.org/abs/2610.33074" aria-label="AGQ preprint">Preprint ↗</a></div>
-  </section>
-</div>
-
-<p class="publication-overview"><a href="/publications/">Full publications and preprints →</a></p>
-
-### More Projects
-
-<div class="project-grid secondary-grid">
-<section class="project-card" aria-labelledby="project-rt-focuser">
-    <a class="project-visual" href="/images/homepage/rt-focuser.png" aria-label="View RT-Focuser comparison still"><img src="/images/homepage/rt-focuser.png" width="1280" height="420" alt="RT-Focuser comparison showing blurry input alongside restored output" loading="lazy"></a>
-    <p class="project-caption">Still from the repository deblurring demo</p>
-    <p class="project-category">Real-time edge vision</p>
-    <h3 id="project-rt-focuser"><a href="https://github.com/ReaganWu/RT-Focuser">RT-Focuser</a></h3>
-    <p>A lightweight image deblurring model for real-time edge deployment, with training, inference, and mobile deployment resources.</p>
-    <div class="project-links"><a href="https://github.com/ReaganWu/RT-Focuser" aria-label="RT-Focuser on GitHub">GitHub ↗</a><a class="project-paper" href="https://arxiv.org/abs/2512.21975" aria-label="RT-Focuser paper">Paper ↗</a></div>
-  </section>
-<section class="project-card" aria-labelledby="project-gui-narrator">
-    <a class="project-visual" href="/images/homepage/gui-narrator.png" aria-label="View GUI-Narrator pipeline figure"><img src="/images/homepage/gui-narrator.png" width="1167" height="1080" alt="GUI-Narrator pipeline with sampled GUI screenshots, visual prompts and action narration" loading="lazy"></a>
-    <p class="project-caption">Pipeline figure from the project repository</p>
-    <p class="project-category">Multimodal GUI understanding</p>
-    <h3 id="project-gui-narrator"><a href="https://github.com/showlab/GUI-Narrator">GUI-Narrator</a></h3>
-    <p>A GUI action captioning framework and the Act2Cap dataset, using cursor detection and keyframe extraction to interpret on-screen actions.</p>
-    <div class="project-links"><a href="https://github.com/showlab/GUI-Narrator" aria-label="GUI-Narrator on GitHub">GitHub ↗</a><a class="project-paper" href="https://arxiv.org/abs/2406.13719" aria-label="GUI-Narrator paper">Paper ↗</a></div>
-  </section>
-</div>
-
----
-
-## About Me
+<p class="research-statement">Efficient intelligence, from algorithms to hardware.</p>
 
 I am a PhD student in the **CyPhi AI Lab at the Monash University**, supervised by **[Prof. Raphael Phan](https://www.monash.edu.my/it/staff/academic/prof-raphael-phan)**, and funded by Graduate Research Excellent Scholarship. Currently, I am also a visiting PhD student at **Peking University** under the guidance of **[Prof. Daquan Zhou](https://scholar.google.com/citations?user=DdCAbWwAAAAJ&hl=en)**.
 
@@ -108,6 +39,10 @@ If you are interested in any aspect of me, I am always open to discussions and a
   </li>
 </ul>
 
+---
+
+<nav class="section-nav" aria-label="On this page"><a href="#research-interests">Research</a><a href="#news-and-updates">News</a><a href="/publications/">Publications</a><a href="#academic-service">Service</a><a href="#keynote-works">Projects</a></nav>
+
 ## Research Interests
 
 - Efficient AI
@@ -127,8 +62,8 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
 
 ### 2026
 
-- ⚙️ **Oct 2026**: **TernScope: Model-Hardware Co-Design for Efficient Ternary Endoscopic Segmentation** is now available on arXiv, featuring W2A8 ternary quantization and an **88.46% reduction in compute-array area**. [[Preprint](https://arxiv.org/abs/2610.29617)] [[Code](https://github.com/ReaganWu/TernScope)] *Benchmark context: compute-array synthesis area versus original INT8 Gemmini, with matched 16 × 16 arrays, the same 25-convolution graph, and Nangate45/Yosys-ABC; not whole-chip area.*
-- ⚙️ **Oct 2026**: **AGQ: Action-Guided Ultra-Low-Bit Quantization for Vision-Language-Action Models** is now available on arXiv, achieving **92.7% LIBERO success at W3** and up to **6.10× model compression**. [[Preprint](https://arxiv.org/abs/2610.33074)] [[Code](https://github.com/Qiuxu00/AGQ)] *Benchmark context: the compression result uses a separate grouped-coded `W1.5*` configuration (W4 vision and average W1.5 language), retaining 25.5% success; it is not the W3 configuration.*
+- ⚙️ **Oct 2026**: **TernScope: Model-Hardware Co-Design for Efficient Ternary Endoscopic Segmentation** is now available on arXiv, featuring W2A8 ternary quantization and an **88.46% reduction in compute-array area**. [[Preprint](https://arxiv.org/abs/2610.29617)] [[Code](https://github.com/ReaganWu/TernScope)]
+- ⚙️ **Oct 2026**: **AGQ: Action-Guided Ultra-Low-Bit Quantization for Vision-Language-Action Models** is now available on arXiv, achieving **92.7% LIBERO success at W3** and up to **6.10× model compression**. [[Preprint](https://arxiv.org/abs/2610.33074)] [[Code](https://github.com/Qiuxu00/AGQ)]
 - ⚙️ **Oct 2026**: Our paper, “**VAULT: A Secure FPGA Inference Accelerator for RRAM-Inspired Biomedical Edge Intelligence**,” has been accepted for an oral presentation at the IEEE International Conference on Microelectronics (**ICM 2026**). VAULT explores an RRAM-inspired approach to enhancing the security of FPGA-based biomedical image segmentation at the edge.
 - ⚙️ **Aug 2026**: Two papers were accepted by **BMVC 2026**: **LiteUAV-DETR**, which studies scale-aware feature routing for real-time UAV detection, and **Motion-Equivariant Pseudo-Video Augmentation**, which targets video-style generalization from a single static polyp dataset. [[LiteUAV-DETR](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iAdEypoAAAAJ&sortby=pubdate&citation_for_view=iAdEypoAAAAJ:4DMP91E08xMC)] [[Pseudo-Video Augmentation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=iAdEypoAAAAJ&sortby=pubdate&citation_for_view=iAdEypoAAAAJ:aqlVkmm33-oC)]
 - 🏅 **Aug 2026**: **DepthPolyp** received the **ICPR 2026 Reproducible Research in Pattern Recognition (RRPR) Badge**, following a separate positive peer-review evaluation of its reproducibility, transparency, code, and data availability. [[Badge Criteria](https://icpr2026.org/rrprBadges.html)] [[Paper](https://arxiv.org/abs/2605.16519)] [[Code](https://github.com/ReaganWu/DepthPolyp)]
@@ -140,7 +75,7 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
 - ⚙️ **Jul 2026**: **DepthPolyp in Practice** was accepted by the **Sixth Workshop on Reproducible Research in Pattern Recognition (RRPR 2026)**. This companion work expands the technical and reproducibility details of DepthPolyp and delivers a real-time iPhone inference and deployment framework. [[Program](https://tc22-team.github.io/rrpr2026/assets/files/draftProgramRRPR2026.pdf)]
 - ⚙️ **Jun 2026**: **Edge-Segstar** was accepted by **Biomedical Signal Processing and Control (BSPC, Q1)**. This work explores bidirectional self-distillation to improve efficient medical segmentation models, aiming to better balance the trilemma among model size, accuracy, and inference speed. [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809426013054?via%3Dihub)]
 - ⚙️ **May 2026**: **RoiMAM** was released on **arXiv**. This work introduces a region-of-interest medical attention model for efficient vision-language understanding, focusing on lesion-relevant regions to improve medical visual question answering with a compact model. [[Preprint](https://arxiv.org/pdf/2605.15561)]
-- ⚙️ **Apr 2026**: **DepthPolyp** was accepted by **ICPR 2026**. A pseudo-depth guided lightweight segmentation model for real-time colonoscopy, achieving **3.57M parameters**, **0.86 GMACs**, and over **180 FPS** on mobile devices. [[Paper](https://arxiv.org/abs/2605.16519)] [[Code](https://github.com/ReaganWu/DepthPolyp)] [[HF Model](https://huggingface.co/ReaganWZY/DepthPolyp)] [[HF Demo](https://huggingface.co/spaces/ReaganWZY/DepthPolyp-demo)] *Benchmark context: the paper reports iPhone 15, Core ML FP16, 224 × 224 input, batch 1.*
+- ⚙️ **Apr 2026**: **DepthPolyp** was accepted by **ICPR 2026**. A pseudo-depth guided lightweight segmentation model for real-time colonoscopy, achieving **3.57M parameters**, **0.86 GMACs**, and over **180 FPS** on mobile devices. [[Paper](https://arxiv.org/abs/2605.16519)] [[Code](https://github.com/ReaganWu/DepthPolyp)] [[HF Model](https://huggingface.co/ReaganWZY/DepthPolyp)] [[HF Demo](https://huggingface.co/spaces/ReaganWZY/DepthPolyp-demo)]
 - **⚙️ Jan 2026**: **EndoCaver** was accepted by **ICASSP 2026**. This work improves segmentation under fog, blur, and glare by connecting image restoration with the visual attention used for segmentation. [[Preprint](https://arxiv.org/abs/2601.22537)]
 
 ### 2025
@@ -166,15 +101,11 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
 
 ## Academic Service
 
-<section class="committee-role" aria-labelledby="tc22-role">
-  <h3 id="tc22-role">Technical Committee Member</h3>
-  <p><a href="https://iapr-tc22.org/index.html">IAPR TC22 · Reproducible Research in Pattern Recognition</a></p>
-</section>
+### Technical Committee Member
+IAPR TC22 · Reproducible Research in Pattern Recognition
 
 
 ### Reviewing & Programme Committees
-
-<div class="reviewing-list" markdown="1">
 
 - Journal:
 
@@ -199,6 +130,45 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
   - BMVC 2025 -- Reviewer
   - IJCNN 2025 -- Reviewer
 
+---
+
+## Keynote Works
+
+Selected projects in efficient models, practical deployment, and multimodal understanding.
+
+<div class="project-grid">
+  <section class="project-card" aria-labelledby="project-ternscope">
+    <a class="project-visual" href="/images/homepage/ternscope.png" aria-label="View TernScope architecture figure"><img src="/images/homepage/ternscope.png" width="2699" height="1290" alt="TernScope architecture showing SplitLK, branch reparameterization and ternary large kernels" loading="lazy"></a>
+    <p class="project-caption">Architecture figure from the project repository</p>
+    <p class="project-category">Model–hardware co-design</p>
+    <h3 id="project-ternscope"><a href="https://github.com/ReaganWu/TernScope">TernScope</a></h3>
+    <p>A ternary endoscopic segmentation model co-designed with an accelerator, connecting low-bit inference with efficient hardware.</p>
+    <div class="project-links"><a href="https://github.com/ReaganWu/TernScope" aria-label="TernScope on GitHub">GitHub ↗</a><a class="project-paper" href="https://arxiv.org/abs/2610.29617" aria-label="TernScope paper">Paper ↗</a></div>
+  </section>
+  <section class="project-card" aria-labelledby="project-depthpolyp">
+    <a class="project-visual" href="/images/homepage/depthpolyp.png" aria-label="View DepthPolyp demo still"><img src="/images/homepage/depthpolyp.png" width="672" height="224" alt="DepthPolyp demo showing a colonoscopy frame, segmentation overlay and pseudo-depth prediction" loading="lazy"></a>
+    <p class="project-caption">Still from the repository segmentation demo</p>
+    <p class="project-category">Medical vision & deployment</p>
+    <h3 id="project-depthpolyp"><a href="https://github.com/ReaganWu/DepthPolyp">DepthPolyp</a></h3>
+    <p>Lightweight colonoscopy segmentation with pseudo-depth guidance, including ONNX inference and an open-source iPhone Core ML demo.</p>
+    <div class="project-links"><a href="https://github.com/ReaganWu/DepthPolyp" aria-label="DepthPolyp on GitHub">GitHub ↗</a><a class="project-paper" href="https://arxiv.org/abs/2605.16519" aria-label="DepthPolyp paper">Paper ↗</a></div>
+  </section>
+  <section class="project-card" aria-labelledby="project-rt-focuser">
+    <a class="project-visual" href="/images/homepage/rt-focuser.png" aria-label="View RT-Focuser comparison still"><img src="/images/homepage/rt-focuser.png" width="1280" height="420" alt="RT-Focuser comparison showing blurry input alongside restored output" loading="lazy"></a>
+    <p class="project-caption">Still from the repository deblurring demo</p>
+    <p class="project-category">Real-time edge vision</p>
+    <h3 id="project-rt-focuser"><a href="https://github.com/ReaganWu/RT-Focuser">RT-Focuser</a></h3>
+    <p>A lightweight image deblurring model for real-time edge deployment, with training, inference, and mobile deployment resources.</p>
+    <div class="project-links"><a href="https://github.com/ReaganWu/RT-Focuser" aria-label="RT-Focuser on GitHub">GitHub ↗</a><a class="project-paper" href="https://arxiv.org/abs/2512.21975" aria-label="RT-Focuser paper">Paper ↗</a></div>
+  </section>
+  <section class="project-card" aria-labelledby="project-gui-narrator">
+    <a class="project-visual" href="/images/homepage/gui-narrator.png" aria-label="View GUI-Narrator pipeline figure"><img src="/images/homepage/gui-narrator.png" width="1167" height="1080" alt="GUI-Narrator pipeline with sampled GUI screenshots, visual prompts and action narration" loading="lazy"></a>
+    <p class="project-caption">Pipeline figure from the project repository</p>
+    <p class="project-category">Multimodal GUI understanding</p>
+    <h3 id="project-gui-narrator"><a href="https://github.com/showlab/GUI-Narrator">GUI-Narrator</a></h3>
+    <p>A GUI action captioning framework and the Act2Cap dataset, using cursor detection and keyframe extraction to interpret on-screen actions.</p>
+    <div class="project-links"><a href="https://github.com/showlab/GUI-Narrator" aria-label="GUI-Narrator on GitHub">GitHub ↗</a><a class="project-paper" href="https://arxiv.org/abs/2406.13719" aria-label="GUI-Narrator paper">Paper ↗</a></div>
+  </section>
 </div>
 
 <br>
