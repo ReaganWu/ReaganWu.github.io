@@ -38,3 +38,8 @@ https://www.pku.edu.cn/pku_logo_red.png
 Source page: https://www.pku.edu.cn/
 
 Institutional names and marks belong to their respective institutions.
+
+AGQ framework figure (agq.png), reproduced from the authors' public repository:
+https://github.com/Qiuxu00/AGQ/blob/main/assets/paper/figure2_framework.png
+Original figure unchanged; credit: AGQ authors. Repository license is pending,
+so this source listing does not claim an open-source asset license.
