@@ -113,3 +113,13 @@ body.page { background:#f6f8f8; color:var(--ink); font-family:system-ui,-apple-s
 .page .committee-role h3 { margin:0 0 8px; font-size:22px; line-height:1.35; }
 .page .committee-role p { margin:0; font-size:16px; }
 @media(max-width:650px) { .committee-role { padding:18px; } .page .committee-role h3 { font-size:20px; } .page .committee-role p { font-size:15px; } }
+.news-recent ul { margin-bottom:8px; }
+.news-archive { margin-top:12px; }
+.news-archive > summary { cursor:pointer; font-size:15px; font-weight:600; color:var(--accent); padding:8px 0; }
+.news-archive[open] > summary { margin-bottom:12px; }
+.page .personal-note { color:var(--muted); font-size:15px; }
+@media print { .news-archive .news-panel { max-height:none; overflow:visible; } }
+.news-archive > summary { list-style:none; }
+.news-archive > summary::-webkit-details-marker { display:none; }
+.news-archive > summary::before { content:"▸ "; }
+.news-archive[open] > summary::before { content:"▾ "; }

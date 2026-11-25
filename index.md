@@ -11,13 +11,13 @@ description: Zhuoyu Wu — PhD student at Monash University researching efficien
 
 <img src="/Image_3.jpg" class="floatpic" width="355" height="360" alt="Portrait of Zhuoyu Wu">
 
-<p class="research-statement">Efficient intelligence, from algorithms to hardware.</p>
+<p class="research-statement">Efficient intelligence, from algorithms to hardware — and onto the device.</p>
 
 I am a PhD student in the **CyPhi AI Lab at the Monash University**, supervised by **[Prof. Raphael Phan](https://www.monash.edu.my/it/staff/academic/prof-raphael-phan)**, and funded by Graduate Research Excellent Scholarship. Currently, I am also a visiting PhD student at **Peking University** under the guidance of **[Prof. Daquan Zhou](https://scholar.google.com/citations?user=DdCAbWwAAAAJ&hl=en)**.
 
 Prior to Monash, I have worked on Efficient AI algorithm design as well as the SW/HW co-design under the guidance of **[Assoc. Prof. Dr. Zheng Wang](https://scholar.google.com/citations?user=j-zijKAAAAAJ&hl=en)** (now a Tenured Associate Professor at the [School of Integrated Circuits, Nanjing University](https://ic.nju.edu.cn/f1/ef/c56672a848367/page.htm)) and **[Dr. Wenqi Fang](https://scholar.google.com/citations?user=lqtpolwAAAAJ&hl=en)** at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences([SIAT, CAS](https://www.siat.ac.cn/)). I had a wonderful time there, collaborating with a group of talented individuals to deliver several key projects.
 
-I care about making research reproducible and practical to deploy. As a member of [IAPR Technical Committee 22 on Reproducible Research in Pattern Recognition (TC22)](https://iapr-tc22.org/index.html), I welcome exchanges with researchers who share these interests and encourage interested colleagues to explore TC22’s activities.
+I care about making research reproducible and practical to deploy. I open-source models and deployment pipelines wherever I can — DepthPolyp and RT-Focuser run in real time on mobile devices, and DepthPolyp ships with an [open-source iPhone demo](https://github.com/ReaganWu/DepthPolyp). As a member of [IAPR Technical Committee 22 on Reproducible Research in Pattern Recognition (TC22)](https://iapr-tc22.org/index.html), I welcome exchanges with researchers who share these interests and encourage interested colleagues to explore TC22’s activities.
 
 If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **zhuoyu.wu [at] monash.edu**
 
@@ -41,14 +41,15 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 ---
 
-<nav class="section-nav" aria-label="On this page"><a href="#research-interests">Research</a><a href="#news-and-updates">News</a><a href="/publications/">Publications</a><a href="#academic-service">Service</a><a href="#keynote-works">Projects</a></nav>
+<nav class="section-nav" aria-label="On this page"><a href="#research-interests">Research</a><a href="#news-and-updates">News</a><a href="/publications/">Publications</a><a href="#academic-service">Service</a><a href="#selected-projects">Projects</a></nav>
 
 ## Research Interests
 
-- Efficient AI
-- HW/SW co-design
-- LLM
-- AI for Science
+Three questions run through my work:
+
+- **How small can a medical vision model get and still be trusted?** Lightweight segmentation and medical VQA built for real clinical hardware — [DepthPolyp](https://arxiv.org/abs/2605.16519), [Edge-Segstar](https://www.sciencedirect.com/science/article/pii/S1746809426013054), [TernScope](https://arxiv.org/abs/2610.29617), [RoiMAM](https://arxiv.org/abs/2605.15561).
+- **What should hardware look like for emerging AI operators?** Accelerators for workloads that general-purpose hardware handles poorly — [PR-KAN](https://ieeexplore.ieee.org/document/11043217) (the first FPGA accelerator for KANs), [FLICKER](https://arxiv.org/abs/2603.01158) (3D Gaussian Splatting), [TMU](https://ieeexplore.ieee.org/document/11224010/), [AttenPU](https://dl.acm.org/doi/10.1145/3716368.3735201).
+- **How do we make multimodal and embodied agents efficient?** Ultra-low-bit quantization and action understanding for agents — [AGQ](https://arxiv.org/abs/2610.33074) (vision-language-action), [GUI-Narrator](https://dl.acm.org/doi/10.1145/3746027.3755150).
 
 ---
 
@@ -56,11 +57,7 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents**, and 🎓 **personal milestones**.
 
-<p id="news-scroll-hint" class="scroll-hint">Scroll for all updates · 2026–2023 <span aria-hidden="true">↓</span></p>
-
-<div class="news-panel" role="region" aria-labelledby="news-and-updates" aria-describedby="news-scroll-hint" tabindex="0" markdown="1">
-
-### 2026
+<div class="news-recent" markdown="1">
 
 - ⚙️ **Oct 2026**: **TernScope: Model-Hardware Co-Design for Efficient Ternary Endoscopic Segmentation** is now available on arXiv, featuring W2A8 ternary quantization and an **88.46% reduction in compute-array area**. [[Preprint](https://arxiv.org/abs/2610.29617)] [[Code](https://github.com/ReaganWu/TernScope)]
 - ⚙️ **Oct 2026**: **AGQ: Action-Guided Ultra-Low-Bit Quantization for Vision-Language-Action Models** is now available on arXiv, achieving **92.7% LIBERO success at W3** and up to **6.10× model compression**. [[Preprint](https://arxiv.org/abs/2610.33074)] [[Code](https://github.com/Qiuxu00/AGQ)]
@@ -69,12 +66,20 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
 - 🏅 **Aug 2026**: **DepthPolyp** received the **ICPR 2026 Reproducible Research in Pattern Recognition (RRPR) Badge**, following a separate positive peer-review evaluation of its reproducibility, transparency, code, and data availability. [[Badge Criteria](https://icpr2026.org/rrprBadges.html)] [[Paper](https://arxiv.org/abs/2605.16519)] [[Code](https://github.com/ReaganWu/DepthPolyp)]
 - 🎓 **Aug 2026**: I was selected as a recipient of the **IEEE Computer Society WEIGD Student Support Fund**, as one of 502 selected applicants. [[Award](https://www.computer.org/volunteering/awards/scholarships/weigd-student-fund)]
 
+</div>
+
+<details class="news-archive">
+<summary>Earlier updates · Aug 2026 – Apr 2023</summary>
+
+<div class="news-panel" role="region" aria-label="Earlier news and updates" tabindex="0" markdown="1">
+
+### 2026
+
 - ⚙️ **Aug 2026**: **Lightweight Polyp Segmentation via a Gain-Aware Prediction-Space Recursive Controller** was accepted by **ICONIP 2026** as a **Poster** paper. The work introduces a compact, host-portable controller that recursively refines backbone logits with minimal deployment overhead. [[Preprint](https://arxiv.org/abs/2607.03062)] [[Code](https://github.com/tyui99/Gain-Aware-Prediction-Space-Recursive-Controller)]
 - ⚙️ **Aug 2026**: **RoiMAM** was accepted by **APSIPA ASC 2026**. This work proposes a region-of-interest medical attention mechanism for efficient vision-language understanding, enabling compact yet effective medical visual question answering. [[Preprint](https://arxiv.org/abs/2605.15561)]
 - ⚙️ **Aug 2026**: **RIGS-Refiner** was accepted by **APSIPA ASC 2026**. This work introduces a lightweight prediction-space refinement framework for robust colonoscopy polyp segmentation, improving segmentation quality with minimal computational overhead. [[Preprint](https://arxiv.org/abs/2607.03058)] [[Code](https://github.com/tyui99/RIGS-Refiner)]
 - ⚙️ **Jul 2026**: **DepthPolyp in Practice** was accepted by the **Sixth Workshop on Reproducible Research in Pattern Recognition (RRPR 2026)**. This companion work expands the technical and reproducibility details of DepthPolyp and delivers a real-time iPhone inference and deployment framework. [[Program](https://tc22-team.github.io/rrpr2026/assets/files/draftProgramRRPR2026.pdf)]
 - ⚙️ **Jun 2026**: **Edge-Segstar** was accepted by **Biomedical Signal Processing and Control (BSPC, Q1)**. This work explores bidirectional self-distillation to improve efficient medical segmentation models, aiming to better balance the trilemma among model size, accuracy, and inference speed. [[Paper](https://www.sciencedirect.com/science/article/pii/S1746809426013054?via%3Dihub)]
-- ⚙️ **May 2026**: **RoiMAM** was released on **arXiv**. This work introduces a region-of-interest medical attention model for efficient vision-language understanding, focusing on lesion-relevant regions to improve medical visual question answering with a compact model. [[Preprint](https://arxiv.org/pdf/2605.15561)]
 - ⚙️ **Apr 2026**: **DepthPolyp** was accepted by **ICPR 2026**. A pseudo-depth guided lightweight segmentation model for real-time colonoscopy, achieving **3.57M parameters**, **0.86 GMACs**, and over **180 FPS** on mobile devices. [[Paper](https://arxiv.org/abs/2605.16519)] [[Code](https://github.com/ReaganWu/DepthPolyp)] [[HF Model](https://huggingface.co/ReaganWZY/DepthPolyp)] [[HF Demo](https://huggingface.co/spaces/ReaganWZY/DepthPolyp-demo)]
 - **⚙️ Jan 2026**: **EndoCaver** was accepted by **ICASSP 2026**. This work improves segmentation under fog, blur, and glare by connecting image restoration with the visual attention used for segmentation. [[Preprint](https://arxiv.org/abs/2601.22537)]
 
@@ -96,6 +101,7 @@ A compact research log: ⚙️ **efficient AI / hardware**, 🖥️ **GUI agents
 - ⚙️ **Apr 2023**: **COMPACT** was presented at **DATE 2023**, focusing on precision-adjustable nonlinear activation acceleration. [[Paper](https://ieeexplore.ieee.org/document/10137019/)]
 
 </div>
+</details>
 
 ---
 
@@ -132,9 +138,9 @@ IAPR TC22 · Reproducible Research in Pattern Recognition
 
 ---
 
-## Keynote Works
+## Selected Projects
 
-Selected projects in efficient models, practical deployment, and multimodal understanding.
+Open-source projects in efficient models, practical deployment, and multimodal understanding — each with code you can run.
 
 <div class="project-grid">
   <section class="project-card" aria-labelledby="project-ternscope">
@@ -151,7 +157,7 @@ Selected projects in efficient models, practical deployment, and multimodal unde
     <p class="project-category">Medical vision & deployment</p>
     <h3 id="project-depthpolyp"><a href="https://github.com/ReaganWu/DepthPolyp">DepthPolyp</a></h3>
     <p>Lightweight colonoscopy segmentation with pseudo-depth guidance, including ONNX inference and an open-source iPhone Core ML demo.</p>
-    <div class="project-links"><a href="https://github.com/ReaganWu/DepthPolyp" aria-label="DepthPolyp on GitHub">GitHub ↗</a><a class="project-paper" href="https://arxiv.org/abs/2605.16519" aria-label="DepthPolyp paper">Paper ↗</a></div>
+    <div class="project-links"><a href="https://huggingface.co/spaces/ReaganWZY/DepthPolyp-demo" aria-label="Try the DepthPolyp demo on Hugging Face">Try demo ↗</a><a href="https://github.com/ReaganWu/DepthPolyp" aria-label="DepthPolyp on GitHub">GitHub ↗</a><a class="project-paper" href="https://arxiv.org/abs/2605.16519" aria-label="DepthPolyp paper">Paper ↗</a></div>
   </section>
   <section class="project-card" aria-labelledby="project-rt-focuser">
     <a class="project-visual" href="/images/homepage/rt-focuser.png" aria-label="View RT-Focuser comparison still"><img src="/images/homepage/rt-focuser.png" width="1280" height="420" alt="RT-Focuser comparison showing blurry input alongside restored output" loading="lazy"></a>
@@ -171,7 +177,9 @@ Selected projects in efficient models, practical deployment, and multimodal unde
   </section>
 </div>
 
-<br>
+---
+
+<p class="personal-note">Away from research, I spend time on music, reading, and basketball. A line I keep coming back to: <em>“Do not go gentle into that good night.”</em> — Dylan Thomas</p>
 
 <!--
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&ref_src=twsrc%5Etfw">#AAAI</a> & <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>— Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
